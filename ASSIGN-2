@@ -1,1 +1,49 @@
+import numpy as np
+import pandas as pd
+from scipy.stats import linregress
+
+# Load the data file
+file_path = r"C:\Users\kdivy\OneDrive\Desktop\COMP ANA HT DATA\ASSIGN-2\DecayTimecourse (1).txt"
+df = pd.read_csv(file_path, sep="\t")
+df.iloc[:, 1:] = df.iloc[:, 1:].apply(pd.to_numeric, errors='coerce')
+
+# Define time points (minutes)
+time_points = np.array([0, 5, 10, 15, 20, 30, 40, 50, 60])
+
+# Calculate half-life for each transcript
+half_lives = {}
+for _, row in df.iterrows():
+    gene = row.iloc[0]
+    # Reshape expression data into three replicates (3 x 9)
+    replicates = row.iloc[1:].values.reshape(3, -1).astype(float)
+    gene_hls = []
+    for rep in replicates:
+        # Filter out invalid values (NaN or non-positive)
+        valid = (rep > 0) & ~np.isnan(rep)
+        if valid.sum() < 3:
+            continue
+        # Perform linear regression on log(expression) vs. time
+        result = linregress(time_points[valid], np.log(rep[valid]))
+        if -result.slope > 0:
+            gene_hls.append(np.log(2) / (-result.slope))
+    if gene_hls:
+        half_lives[gene] = np.mean(gene_hls)
+
+# Save half-life results
+hl_df = pd.DataFrame(list(half_lives.items()), columns=["Gene", "Half-life"]).dropna()
+hl_df.to_csv("calculated_half_lives.csv", index=False)
+
+# Load half-life data and determine top/bottom 10% by quantile
+hl_df = pd.read_csv("calculated_half_lives.csv")
+top_threshold = hl_df["Half-life"].quantile(0.9)
+bottom_threshold = hl_df["Half-life"].quantile(0.1)
+
+top_genes = hl_df[hl_df["Half-life"] >= top_threshold]
+bottom_genes = hl_df[hl_df["Half-life"] <= bottom_threshold]
+
+top_genes.to_csv("top_10_percent_half_lives.csv", index=False)
+bottom_genes.to_csv("bottom_10_percent_half_lives.csv", index=False)
+
+print("Top 10% genes:", top_genes["Gene"].tolist())
+print("Bottom 10% genes:", bottom_genes["Gene"].tolist())
 
