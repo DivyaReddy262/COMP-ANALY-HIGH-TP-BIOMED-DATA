@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Generic Gene Ontology Term Finder</title>
+<link rel=stylesheet type='text/css' href=/style.css>
+</head>
+<body>
+<div id=topHeader>
+<div id=puHeader>
+<a href="http://www.princeton.edu">
+<img src="https://go.princeton.edu/genomics_assets/images/pu.gif" alt="Princeton University" id=puHeaderImg />
+</a>
+</div>
+<div id=lsiHeader>
+<a href="http://genomics.princeton.edu">
+<img src="https://go.princeton.edu/genomics_assets/images/splash_title.gif" alt="Lewis-Sigler Institute for Integrative Genomics" id=lsiHeaderImg />
+</a>
+</div>
+</div>
+<center><table border="0" width="90%"><tr><td><br /> <center><a href=/cgi-bin/GOTermFinder id=searchResultPageTitle>
+                  <font size=4><b>GENERIC GENE ONTOLOGY (GO) TERM FINDER</b></font>
+                  </a></center> <center><h3><font color=#3E5379>SEARCH RESULTS</font></h3></center></td></tr></table></center><center><table width=95% cellpadding=5><tr>
+<td><table><tr><td><i><a href="https://go.princeton.edu/tmp/724536/./query.txt">Your Input List of Genes (615)</a></i></td></tr>
+<tr><td><font color=#3E5379>Duplicate identifiers:</font> <font color=black>0 identifiers were duplicated in your input list</font><br></td></tr>
+<tr><td><font color=#3E5379>Unknown identifiers:</font> <font color=brown>70 identifiers were unknown</font><br><font size=-2>Unknown identifiers are those found to be unannotated with the selected (and possibly filtered) association file.</font><br>
+Gene, YMR031W-A, YAL066W, YHR095W, YFL013W-A, YBR116C, YOL037C, YMR173W-A, YGR137W, YOR345C, YDL118W, YDL221W, YDR442W, YDL032W, YML117W-A, YBL062W, YOL106W, YAL058C-A, YJL119C, YNL120C, YPR136C, YDR445C, YKL136W, YOL134C, YLR252W, YMR290W-A, YJL022W, YOR379C, YNL198C, YLL059C, YPR077C, YER066C-A, YBR099C, YDR340W, YDR008C, YKR040C, YBL053W, YJR114W, YDR431W, YPR150W, YEL010W, YKL036C, YBR174C, YDR401W, YNL028W, YCL006C, YLR282C, YGL052W, YJL086C, YLR279W, YLR458W, YIL032C, YDR095C, YNL171C, YAR053W, YGR290W, YOR392W, YIL141W, YLR349W, YNL285W, YOR024W, YDL162C, YNL017C, YPL025C, YGR226C, YML089C, YBL108W, YJL195C, YHR212C, YDR535C<br><a href='https://go.princeton.edu/tmp/724536/./query_unknown.txt'>Download list</a></td></tr>
+<tr><td><font color=#3E5379>Ambiguous identifiers:</font> <font color=black>0 identifiers were ambiguous</font><br><font size=-2>Ambiguous identifiers are those that might map to more than one database ID (annotated entity).</font><br>
+</td></tr>
+<tr><td><font color=#3E5379>All other identifiers:</font> 545 identifiers in this list<br><font size=-2>These are identifiers not found to be ambiguous, unknown, or discarded.</font><br>
+<a href='https://go.princeton.edu/tmp/724536/./query_known.txt'>Download list</a></td></tr></table>
+</td><td><table class=paramsTable>
+<tr><td>Date</td><td>Fri Mar  7 21:30:16 EST 2025</td></tr>
+<tr><td>Aspect</td><td>P</td></tr>
+<tr><td>P-value cutoff</td><td>0.01</td></tr>
+<tr><td>Calculate FDR</td><td>Yes</td></tr>
+<tr><td>Regulation links followed</td><td>Yes</td></tr>
+<tr><td>Bonferroni correction</td><td>Yes</td></tr>
+<tr><td>Annotation file</td><td>gene_association.sgd</td></tr>
+<tr><td>Ontology file</td><td></td></tr>
+<tr><td>Evidence codes used</td><td>IEP (23), IPI (3082), IMP (14294), TAS (252), <br>HGI (51), IDA (18589), ND (3538), IEA (49652), <br>ISM (438), EXP (11), IGI (5342), HMP (57), <br>RCA (580), ISO (15), HDA (7119), IC (1025), <br>ISA (251), ISS (939), NAS (82), IBA (15134)</td></tr>
+</table>
+<br>
+<a href='/cgi-bin/GOTermFinder?load=724536'>Run another query with these parameters</a><br>
+<a href='https://go.princeton.edu/tmp/724536/./query_log.txt'>Save query form parameters and log</a><br>
+<a href='/cgi-bin/JobWatch.pl?id=724536&review=1'>Review progress</a><br>
+</td></tr></table></center>
+<hr><center><a href='https://go.princeton.edu/tmp/724536/724536.tar'><i>Download tar file containing all input and output files</i></a></center><hr>
+<center><table width="95%"><tr><td colspan="2"><center><h3><font color=#3E5379>Search Results in HTML Table Format</font></h3></center></td></tr> 
+ <tr><td align="right" colspan="2"><a href="/GOTermFinder/GOTermFinder_help.shtml"><b>Help</b></a></td></tr> 
+ <tr><td><b>Save Options</b>:  <a href="query.html">HTML Table</a>  |  <a href="query_terms.txt">Plain Text</a>  |  <a href="query_tab.txt">Tab-delimited</a></td> <td><form action="http://revigo.irb.hr/" method=post name=revigoForm target=_blank>
+<textarea cols=40 rows=10 name=inputGoList class=revigoText style='display: none'>
+% GO ID    p-value
+GO:XXXXXXX 3.41057977587268e-05</textarea>
+<input type=hidden name="outputListSize" value="medium">
+<input type=hidden name="isPValue" value="yes">
+<input type=hidden name="whatIsBetter" value="lower">
+<input type=hidden name="measure" value="SIMREL">
+<input type=hidden name="goSizes" value="Saccharomyces cerevisiae">
+</form>
+Visualize these results with <a href='#' onclick="document.revigoForm.submit()" title="Reduce and Visualize Gene Ontology">REViGO</a>
+</td></tr> 
+ <tr><td colspan="2"><i><a href="query.txt">Your Input List of Genes</a></i></td></tr> 
+ <tr><td colspan="2"><html><body><br /><font color=red>Of your input list, 615 genes are known or unknown but not ambiguous. Identifiers unknown to the annotation provider are still included in the statistics. The total number of genes used to calculate the background distribution of GO terms is 7166. Displaying 1 terms out of a total of 1283 found.</font><div class=GOResultReport>
+ <a name="table" /><center><h3>Result Table</h3></center><p /><table align=center border=1 cellpadding=2 width=400><tr><td align="center" bgcolor="#FFCC99" nowrap width="100%"><b>Terms from the Process Ontology  of gene_association.sgd  with p-value <= 0.01</b></td></tr><table align="center" border="2"><tr bgcolor="#CCCCFF"><th align="center">Gene Ontology term</th><th align="center">Cluster frequency</th><th align="center">Genome frequency</th><th align="center">Corrected<br>P-value</th><th align="center">FDR</th><th align="center">False<br>Positives</th><th align="center">Genes annotated to the term</th></tr><tr><td><a href="http://amigo.geneontology.org/amigo/term/GO:XXXXXXX" target="infowin">unannotated</a></td><td>71 of 615 genes, 11.5%</td><td>429 of 7166 genes, 6.0%</td><td>3.41e-05</td><td>0.00%</td><td>0.00</td><td><a href="http://www.yeastgenome.org/locus/YDR535C" target="infowin">YDR535C</a>, <a href="http://www.yeastgenome.org/locus/YPR150W" target="infowin">YPR150W</a>, <a href="http://www.yeastgenome.org/locus/YBR174C" target="infowin">YBR174C</a>, <a href="http://www.yeastgenome.org/locus/YDR431W" target="infowin">YDR431W</a>, <a href="http://www.yeastgenome.org/locus/YKL036C" target="infowin">YKL036C</a>, <a href="http://www.yeastgenome.org/locus/YIL032C" target="infowin">YIL032C</a>, <a href="http://www.yeastgenome.org/locus/YER066C-A" target="infowin">YER066C-A</a>, <a href="http://www.yeastgenome.org/locus/YLR349W" target="infowin">YLR349W</a>, <a href="http://www.yeastgenome.org/locus/YPR136C" target="infowin">YPR136C</a>, <a href="http://www.yeastgenome.org/locus/YOR024W" target="infowin">YOR024W</a>, <a href="http://www.yeastgenome.org/locus/YBL108W" target="infowin">YBL108W</a>, <a href="http://www.yeastgenome.org/locus/YDL162C" target="infowin">YDL162C</a>, <a href="http://www.yeastgenome.org/locus/YMR173W-A" target="infowin">YMR173W-A</a>, <a href="http://www.yeastgenome.org/locus/YJL119C" target="infowin">YJL119C</a>, <a href="http://www.yeastgenome.org/locus/YML089C" target="infowin">YML089C</a>, <a href="http://www.yeastgenome.org/locus/YDR008C" target="infowin">YDR008C</a>, <a href="http://www.yeastgenome.org/locus/YNL120C" target="infowin">YNL120C</a>, <a href="http://www.yeastgenome.org/locus/YAL066W" target="infowin">YAL066W</a>, <a href="http://www.yeastgenome.org/locus/YJR114W" target="infowin">YJR114W</a>, <a href="http://www.yeastgenome.org/locus/YOR392W" target="infowin">YOR392W</a>, <a href="http://www.yeastgenome.org/locus/YGR290W" target="infowin">YGR290W</a>, <a href="http://www.yeastgenome.org/locus/YDL032W" target="infowin">YDL032W</a>, <a href="http://www.yeastgenome.org/locus/YOR345C" target="infowin">YOR345C</a>, <a href="http://www.yeastgenome.org/locus/YPR077C" target="infowin">YPR077C</a>, <a href="http://www.yeastgenome.org/locus/YLR458W" target="infowin">YLR458W</a>, <a href="http://www.yeastgenome.org/locus/YKR040C" target="infowin">YKR040C</a>, <a href="http://www.yeastgenome.org/locus/YDR401W" target="infowin">YDR401W</a>, <a href="http://www.yeastgenome.org/locus/YNL198C" target="infowin">YNL198C</a>, <a href="http://www.yeastgenome.org/locus/YMR290W-A" target="infowin">YMR290W-A</a>, <a href="http://www.yeastgenome.org/locus/YBR099C" target="infowin">YBR099C</a>, <a href="http://www.yeastgenome.org/locus/YNL028W" target="infowin">YNL028W</a>, <a href="http://www.yeastgenome.org/locus/YGR137W" target="infowin">YGR137W</a>, <a href="http://www.yeastgenome.org/locus/YGL052W" target="infowin">YGL052W</a>, <a href="http://www.yeastgenome.org/locus/YDR095C" target="infowin">YDR095C</a>, <a href="http://www.yeastgenome.org/locus/YGR226C" target="infowin">YGR226C</a>, <a href="http://www.yeastgenome.org/locus/YDR442W" target="infowin">YDR442W</a>, <a href="http://www.yeastgenome.org/locus/YPL025C" target="infowin">YPL025C</a>, <a href="http://www.yeastgenome.org/locus/YLR279W" target="infowin">YLR279W</a>, <a href="http://www.yeastgenome.org/locus/YOL037C" target="infowin">YOL037C</a>, <a href="http://www.yeastgenome.org/locus/YEL010W" target="infowin">YEL010W</a>, <a href="http://www.yeastgenome.org/locus/YDL221W" target="infowin">YDL221W</a>, <a href="http://www.yeastgenome.org/locus/YNL017C" target="infowin">YNL017C</a>, <a href="http://www.yeastgenome.org/locus/YOL134C" target="infowin">YOL134C</a>, <a href="http://www.yeastgenome.org/locus/YBL053W" target="infowin">YBL053W</a>, <a href="http://www.yeastgenome.org/locus/YLR282C" target="infowin">YLR282C</a>, <a href="http://www.yeastgenome.org/locus/YIL141W" target="infowin">YIL141W</a>, <a href="http://www.yeastgenome.org/locus/YML117W-A" target="infowin">YML117W-A</a>, <a href="http://www.yeastgenome.org/locus/YHR212C" target="infowin">YHR212C</a>, <a href="http://www.yeastgenome.org/locus/YLL059C" target="infowin">YLL059C</a>, <a href="http://www.yeastgenome.org/locus/YAR053W" target="infowin">YAR053W</a>, <a href="http://www.yeastgenome.org/locus/YHR095W" target="infowin">YHR095W</a>, <a href="http://www.yeastgenome.org/locus/YDR340W" target="infowin">YDR340W</a>, <a href="http://www.yeastgenome.org/locus/YLR252W" target="infowin">YLR252W</a>, <a href="http://www.yeastgenome.org/locus/YDR445C" target="infowin">YDR445C</a>, <a href="http://www.yeastgenome.org/locus/YCL006C" target="infowin">YCL006C</a>, <a href="http://www.yeastgenome.org/locus/YBR116C" target="infowin">YBR116C</a>, <a href="http://www.yeastgenome.org/locus/YBL062W" target="infowin">YBL062W</a>, <a href="http://www.yeastgenome.org/locus/YFL013W-A" target="infowin">YFL013W-A</a>, <a href="http://www.yeastgenome.org/locus/YNL285W" target="infowin">YNL285W</a>, <a href="http://www.yeastgenome.org/locus/YNL171C" target="infowin">YNL171C</a>, <a href="http://www.yeastgenome.org/locus/YJL022W" target="infowin">YJL022W</a>, <a href="http://www.yeastgenome.org/locus/YOR379C" target="infowin">YOR379C</a>, <a href="http://www.yeastgenome.org/locus/YMR031W-A" target="infowin">YMR031W-A</a>, <a href="http://www.yeastgenome.org/locus/YKL136W" target="infowin">YKL136W</a>, <a href="http://www.yeastgenome.org/locus/YDL118W" target="infowin">YDL118W</a>, <a href="http://www.yeastgenome.org/locus/Gene" target="infowin">Gene</a>, <a href="http://www.yeastgenome.org/locus/YOL106W" target="infowin">YOL106W</a>, <a href="http://www.yeastgenome.org/locus/YPL275W" target="infowin">YPL275W</a>, <a href="http://www.yeastgenome.org/locus/YAL058C-A" target="infowin">YAL058C-A</a>, <a href="http://www.yeastgenome.org/locus/YJL195C" target="infowin">YJL195C</a>, <a href="http://www.yeastgenome.org/locus/YJL086C" target="infowin">YJL086C</a></td></tr></table><p /></div></body></html></td></tr> 
+</table> 
+</center><hr />
+<center><table width="95%"><tr><td><center><h3><font color=#3E5379>Search Results in GO View Tree Image Format</font></h3></center></td></tr> 
+ <tr><td align="right"><a href="/GOTermFinder/GOTermFinder_help.shtml"><b>Help</b></a></td></tr> 
+ <tr><td><b>Save Options</b>:  <a href="query.png">PNG</a>  |  <a href="query_Image.html">PNG With HyperLinks</a>  |  <a href="query.svg">SVG</a>  |  <a href="query.ps">PostScript</a></td></tr> 
+ <tr><td><i><a href="query.txt">Your Input List of Genes</a></i></td></tr> 
+</table> 
+</center><center><table width="95%"><tr><td><html><body><br><font color=red>Of your input list, 615 genes are known or unknown but not ambiguous. Identifiers unknown to the annotation provider are still included in the statistics. The total number of genes used to calculate the background distribution of GO terms is 7166. Displaying 1 terms out of a total of 1283 found.</font><br><br><b>Nodes in the graph are color-coded according to their p-value. Genes in the GO tree are associated with the GO term(s) to which they are directly annotated. To control the graph size, only significant hits with a p-value <= 0.01 and terms descended from them are included.</b><br /><br /><MAP NAME='goPathImage'>
+ <AREA SHAPE='RECT' COORDS='19,25,149,52' HREF='http://amigo.geneontology.org/amigo/term/GO:0008150' title="">
+ </MAP><center><img src='./query.png' usemap='#goPathImage'></center><p>
+ </body></html></td></tr></table> 
+</center><hr />
