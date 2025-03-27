@@ -1,0 +1,4983 @@
+Operon 1 (3 genes):
+  Start: 248, End: 1453, Strand: +
+  Start: 1450, End: 2115, Strand: +
+  Start: 2145, End: 3254, Strand: +
+
+Operon 2 (1 genes):
+  Start: 3322, End: 5643, Strand: +
+
+Operon 3 (3 genes):
+  Start: 5646, End: 7451, Strand: -
+  Start: 7454, End: 8641, Strand: -
+  Start: 8655, End: 9860, Strand: -
+
+Operon 4 (1 genes):
+  Start: 9980, End: 11413, Strand: +
+
+Operon 5 (1 genes):
+  Start: 11478, End: 12614, Strand: -
+
+Operon 6 (1 genes):
+  Start: 12978, End: 13187, Strand: +
+
+Operon 7 (1 genes):
+  Start: 13462, End: 13644, Strand: -
+
+Operon 8 (1 genes):
+  Start: 13809, End: 14180, Strand: -
+
+Operon 9 (1 genes):
+  Start: 14484, End: 14780, Strand: +
+
+Operon 10 (1 genes):
+  Start: 14868, End: 15131, Strand: +
+
+Operon 11 (1 genes):
+  Start: 15310, End: 15408, Strand: +
+
+Operon 12 (1 genes):
+  Start: 15419, End: 16051, Strand: -
+
+Operon 13 (1 genes):
+  Start: 16342, End: 17706, Strand: +
+
+Operon 14 (2 genes):
+  Start: 18357, End: 18902, Strand: +
+  Start: 18895, End: 19530, Strand: +
+
+Operon 15 (1 genes):
+  Start: 19703, End: 20023, Strand: -
+
+Operon 16 (1 genes):
+  Start: 20219, End: 20482, Strand: -
+
+Operon 17 (1 genes):
+  Start: 20533, End: 21456, Strand: -
+
+Operon 18 (1 genes):
+  Start: 22103, End: 22750, Strand: -
+
+Operon 19 (1 genes):
+  Start: 23336, End: 23890, Strand: +
+
+Operon 20 (1 genes):
+  Start: 24109, End: 24564, Strand: -
+
+Operon 21 (1 genes):
+  Start: 26201, End: 26596, Strand: +
+
+Operon 22 (2 genes):
+  Start: 26648, End: 29008, Strand: +
+  Start: 29046, End: 29429, Strand: +
+
+Operon 23 (2 genes):
+  Start: 29476, End: 29913, Strand: -
+  Start: 29913, End: 30014, Strand: -
+
+Operon 24 (1 genes):
+  Start: 30356, End: 31168, Strand: -
+
+Operon 25 (2 genes):
+  Start: 31838, End: 32086, Strand: +
+  Start: 32101, End: 32355, Strand: +
+
+Operon 26 (1 genes):
+  Start: 32555, End: 32890, Strand: -
+
+Operon 27 (2 genes):
+  Start: 33182, End: 33628, Strand: -
+  Start: 33610, End: 33915, Strand: -
+
+Operon 28 (1 genes):
+  Start: 34651, End: 35931, Strand: -
+
+Operon 29 (3 genes):
+  Start: 36321, End: 36713, Strand: +
+  Start: 36715, End: 37971, Strand: +
+  Start: 38017, End: 39432, Strand: +
+
+Operon 30 (1 genes):
+  Start: 39611, End: 40903, Strand: -
+
+Operon 31 (1 genes):
+  Start: 40991, End: 41719, Strand: +
+
+Operon 32 (2 genes):
+  Start: 41880, End: 42659, Strand: +
+  Start: 42707, End: 44149, Strand: +
+
+Operon 33 (1 genes):
+  Start: 44245, End: 45456, Strand: -
+
+Operon 34 (1 genes):
+  Start: 47199, End: 48473, Strand: -
+
+Operon 35 (1 genes):
+  Start: 48767, End: 49222, Strand: +
+
+Operon 36 (1 genes):
+  Start: 49352, End: 49972, Strand: -
+
+Operon 37 (1 genes):
+  Start: 49985, End: 50251, Strand: +
+
+Operon 38 (1 genes):
+  Start: 50564, End: 51970, Strand: -
+
+Operon 39 (1 genes):
+  Start: 53192, End: 54367, Strand: +
+
+Operon 40 (1 genes):
+  Start: 54696, End: 55745, Strand: -
+
+Operon 41 (1 genes):
+  Start: 56287, End: 57561, Strand: +
+
+Operon 42 (1 genes):
+  Start: 57660, End: 58661, Strand: -
+
+Operon 43 (1 genes):
+  Start: 58827, End: 60182, Strand: +
+
+Operon 44 (1 genes):
+  Start: 60609, End: 61625, Strand: -
+
+Operon 45 (1 genes):
+  Start: 61700, End: 62686, Strand: -
+
+Operon 46 (1 genes):
+  Start: 62927, End: 63643, Strand: +
+
+Operon 47 (1 genes):
+  Start: 63881, End: 64810, Strand: +
+
+Operon 48 (2 genes):
+  Start: 64976, End: 65206, Strand: +
+  Start: 65203, End: 65472, Strand: +
+
+Operon 49 (1 genes):
+  Start: 65671, End: 65832, Strand: +
+
+Operon 50 (2 genes):
+  Start: 66054, End: 66251, Strand: +
+  Start: 66241, End: 66534, Strand: +
+
+Operon 51 (1 genes):
+  Start: 67057, End: 67491, Strand: -
+
+Operon 52 (1 genes):
+  Start: 67908, End: 68204, Strand: +
+
+Operon 53 (1 genes):
+  Start: 68290, End: 68514, Strand: +
+
+Operon 54 (1 genes):
+  Start: 69300, End: 69419, Strand: -
+
+Operon 55 (1 genes):
+  Start: 69967, End: 70749, Strand: +
+
+Operon 56 (1 genes):
+  Start: 71127, End: 71342, Strand: -
+
+Operon 57 (1 genes):
+  Start: 71317, End: 71748, Strand: +
+
+Operon 58 (1 genes):
+  Start: 71811, End: 72704, Strand: +
+
+Operon 59 (1 genes):
+  Start: 72708, End: 73544, Strand: -
+
+Operon 60 (1 genes):
+  Start: 73639, End: 74742, Strand: +
+
+Operon 61 (2 genes):
+  Start: 74752, End: 76647, Strand: -
+  Start: 76644, End: 77867, Strand: -
+
+Operon 62 (2 genes):
+  Start: 77923, End: 78660, Strand: -
+  Start: 78683, End: 79597, Strand: -
+
+Operon 63 (1 genes):
+  Start: 79662, End: 80327, Strand: -
+
+Operon 64 (1 genes):
+  Start: 80387, End: 81328, Strand: -
+
+Operon 65 (1 genes):
+  Start: 81452, End: 82459, Strand: +
+
+Operon 66 (1 genes):
+  Start: 82540, End: 82926, Strand: +
+
+Operon 67 (1 genes):
+  Start: 82932, End: 83789, Strand: -
+
+Operon 68 (1 genes):
+  Start: 83885, End: 84415, Strand: -
+
+Operon 69 (1 genes):
+  Start: 84617, End: 84841, Strand: -
+
+Operon 70 (1 genes):
+  Start: 84927, End: 85583, Strand: -
+
+Operon 71 (1 genes):
+  Start: 85640, End: 86611, Strand: -
+
+Operon 72 (1 genes):
+  Start: 86734, End: 87219, Strand: -
+
+Operon 73 (2 genes):
+  Start: 87668, End: 89167, Strand: +
+  Start: 89160, End: 90587, Strand: +
+
+Operon 74 (2 genes):
+  Start: 90639, End: 93641, Strand: +
+  Start: 93634, End: 94359, Strand: +
+
+Operon 75 (1 genes):
+  Start: 96010, End: 96543, Strand: -
+
+Operon 76 (1 genes):
+  Start: 97444, End: 98121, Strand: +
+
+Operon 77 (1 genes):
+  Start: 98226, End: 99008, Strand: +
+
+Operon 78 (1 genes):
+  Start: 100891, End: 101715, Strand: -
+
+Operon 79 (2 genes):
+  Start: 102034, End: 102309, Strand: -
+  Start: 102309, End: 102692, Strand: -
+
+Operon 80 (2 genes):
+  Start: 102863, End: 103021, Strand: -
+  Start: 103021, End: 103146, Strand: -
+
+Operon 81 (1 genes):
+  Start: 103514, End: 104005, Strand: +
+
+Operon 82 (2 genes):
+  Start: 104073, End: 106001, Strand: +
+  Start: 106009, End: 106791, Strand: +
+
+Operon 83 (2 genes):
+  Start: 106803, End: 107189, Strand: -
+  Start: 107233, End: 107562, Strand: -
+
+Operon 84 (1 genes):
+  Start: 107649, End: 108428, Strand: +
+
+Operon 85 (1 genes):
+  Start: 108694, End: 109563, Strand: +
+
+Operon 86 (1 genes):
+  Start: 109649, End: 109831, Strand: +
+
+Operon 87 (1 genes):
+  Start: 109834, End: 110448, Strand: -
+
+Operon 88 (1 genes):
+  Start: 110769, End: 112193, Strand: +
+
+Operon 89 (2 genes):
+  Start: 112247, End: 112699, Strand: +
+  Start: 112696, End: 113712, Strand: +
+
+Operon 90 (1 genes):
+  Start: 113691, End: 115049, Strand: -
+
+Operon 91 (1 genes):
+  Start: 115898, End: 116149, Strand: +
+
+Operon 92 (1 genes):
+  Start: 116234, End: 116758, Strand: +
+
+Operon 93 (1 genes):
+  Start: 116881, End: 117093, Strand: +
+
+Operon 94 (1 genes):
+  Start: 117313, End: 117579, Strand: -
+
+Operon 95 (2 genes):
+  Start: 117867, End: 118271, Strand: -
+  Start: 118287, End: 118700, Strand: -
+
+Operon 96 (1 genes):
+  Start: 118615, End: 119052, Strand: +
+
+Operon 97 (1 genes):
+  Start: 119518, End: 119754, Strand: +
+
+Operon 98 (2 genes):
+  Start: 119759, End: 120226, Strand: -
+  Start: 120254, End: 120364, Strand: -
+
+Operon 99 (1 genes):
+  Start: 120602, End: 122875, Strand: +
+
+Operon 100 (2 genes):
+  Start: 122890, End: 123561, Strand: -
+  Start: 123558, End: 123839, Strand: -
+
+Operon 101 (1 genes):
+  Start: 124088, End: 124756, Strand: -
+
+Operon 102 (1 genes):
+  Start: 125012, End: 126100, Strand: -
+
+Operon 103 (1 genes):
+  Start: 126179, End: 127576, Strand: -
+
+Operon 104 (1 genes):
+  Start: 127692, End: 128390, Strand: +
+
+Operon 105 (1 genes):
+  Start: 128484, End: 129716, Strand: +
+
+Operon 106 (2 genes):
+  Start: 129737, End: 130693, Strand: -
+  Start: 130717, End: 132696, Strand: -
+
+Operon 107 (1 genes):
+  Start: 132683, End: 135277, Strand: +
+
+Operon 108 (2 genes):
+  Start: 135504, End: 136793, Strand: +
+  Start: 136676, End: 138478, Strand: +
+
+Operon 109 (1 genes):
+  Start: 138494, End: 141109, Strand: -
+
+Operon 110 (1 genes):
+  Start: 141181, End: 142200, Strand: -
+
+Operon 111 (1 genes):
+  Start: 142335, End: 143096, Strand: +
+
+Operon 112 (1 genes):
+  Start: 143339, End: 143497, Strand: +
+
+Operon 113 (1 genes):
+  Start: 143498, End: 144202, Strand: -
+
+Operon 114 (1 genes):
+  Start: 144354, End: 144983, Strand: -
+
+Operon 115 (1 genes):
+  Start: 145185, End: 145907, Strand: +
+
+Operon 116 (1 genes):
+  Start: 145879, End: 148470, Strand: -
+
+Operon 117 (2 genes):
+  Start: 148838, End: 151168, Strand: +
+  Start: 151174, End: 151860, Strand: +
+
+Operon 118 (1 genes):
+  Start: 151875, End: 152615, Strand: -
+
+Operon 119 (1 genes):
+  Start: 152767, End: 153357, Strand: -
+
+Operon 120 (1 genes):
+  Start: 153490, End: 154470, Strand: -
+
+Operon 121 (1 genes):
+  Start: 154694, End: 155596, Strand: -
+
+Operon 122 (1 genes):
+  Start: 155681, End: 156505, Strand: -
+
+Operon 123 (2 genes):
+  Start: 156613, End: 157431, Strand: +
+  Start: 157481, End: 158308, Strand: +
+
+Operon 124 (2 genes):
+  Start: 158525, End: 159292, Strand: +
+  Start: 159342, End: 160433, Strand: +
+
+Operon 125 (1 genes):
+  Start: 160464, End: 161201, Strand: -
+
+Operon 126 (1 genes):
+  Start: 161207, End: 162586, Strand: +
+
+Operon 127 (1 genes):
+  Start: 162656, End: 164095, Strand: +
+
+Operon 128 (1 genes):
+  Start: 164151, End: 165113, Strand: +
+
+Operon 129 (1 genes):
+  Start: 165152, End: 166279, Strand: -
+
+Operon 130 (1 genes):
+  Start: 166336, End: 166503, Strand: -
+
+Operon 131 (1 genes):
+  Start: 166681, End: 167121, Strand: -
+
+Operon 132 (1 genes):
+  Start: 167794, End: 168054, Strand: -
+
+Operon 133 (1 genes):
+  Start: 168184, End: 169212, Strand: -
+
+Operon 134 (3 genes):
+  Start: 169721, End: 170389, Strand: -
+  Start: 170386, End: 170754, Strand: -
+  Start: 170747, End: 171424, Strand: -
+
+Operon 135 (3 genes):
+  Start: 171924, End: 172646, Strand: -
+  Start: 172643, End: 173506, Strand: -
+  Start: 173537, End: 173824, Strand: -
+
+Operon 136 (3 genes):
+  Start: 175115, End: 175471, Strand: +
+  Start: 175471, End: 175920, Strand: +
+  Start: 175913, End: 176947, Strand: +
+
+Operon 137 (1 genes):
+  Start: 177093, End: 177296, Strand: -
+
+Operon 138 (2 genes):
+  Start: 177587, End: 178354, Strand: +
+  Start: 178317, End: 179321, Strand: +
+
+Operon 139 (1 genes):
+  Start: 179707, End: 180366, Strand: -
+
+Operon 140 (1 genes):
+  Start: 180916, End: 183489, Strand: -
+
+Operon 141 (1 genes):
+  Start: 183649, End: 183858, Strand: -
+
+Operon 142 (1 genes):
+  Start: 184345, End: 184965, Strand: +
+
+Operon 143 (1 genes):
+  Start: 184985, End: 186631, Strand: -
+
+Operon 144 (3 genes):
+  Start: 187174, End: 187731, Strand: +
+  Start: 187731, End: 188303, Strand: +
+  Start: 188303, End: 189565, Strand: +
+
+Operon 145 (1 genes):
+  Start: 190053, End: 191009, Strand: -
+
+Operon 146 (1 genes):
+  Start: 191310, End: 192380, Strand: +
+
+Operon 147 (1 genes):
+  Start: 192372, End: 192635, Strand: -
+
+Operon 148 (3 genes):
+  Start: 192826, End: 193377, Strand: +
+  Start: 193384, End: 195258, Strand: +
+  Start: 195274, End: 195984, Strand: +
+
+Operon 149 (2 genes):
+  Start: 196042, End: 196281, Strand: -
+  Start: 196288, End: 196665, Strand: -
+
+Operon 150 (2 genes):
+  Start: 197052, End: 197186, Strand: -
+  Start: 197195, End: 197512, Strand: -
+
+Operon 151 (1 genes):
+  Start: 197630, End: 197848, Strand: +
+
+Operon 152 (1 genes):
+  Start: 197876, End: 198598, Strand: -
+
+Operon 153 (2 genes):
+  Start: 198651, End: 199955, Strand: -
+  Start: 199955, End: 200293, Strand: -
+
+Operon 154 (3 genes):
+  Start: 200377, End: 200991, Strand: +
+  Start: 201025, End: 201612, Strand: +
+  Start: 201609, End: 202517, Strand: +
+
+Operon 155 (2 genes):
+  Start: 202509, End: 203273, Strand: -
+  Start: 203276, End: 205708, Strand: -
+
+Operon 156 (2 genes):
+  Start: 205790, End: 206539, Strand: -
+  Start: 206579, End: 207418, Strand: -
+
+Operon 157 (1 genes):
+  Start: 207474, End: 208184, Strand: -
+
+Operon 158 (1 genes):
+  Start: 208286, End: 209257, Strand: -
+
+Operon 159 (2 genes):
+  Start: 209439, End: 210038, Strand: +
+  Start: 210031, End: 210582, Strand: +
+
+Operon 160 (1 genes):
+  Start: 210639, End: 210989, Strand: -
+
+Operon 161 (1 genes):
+  Start: 211101, End: 211634, Strand: +
+
+Operon 162 (2 genes):
+  Start: 211694, End: 211852, Strand: +
+  Start: 211896, End: 213011, Strand: +
+
+Operon 163 (1 genes):
+  Start: 213067, End: 214425, Strand: +
+
+Operon 164 (1 genes):
+  Start: 214442, End: 215515, Strand: -
+
+Operon 165 (3 genes):
+  Start: 215499, End: 216068, Strand: +
+  Start: 216068, End: 216961, Strand: +
+  Start: 216982, End: 218070, Strand: +
+
+Operon 166 (3 genes):
+  Start: 218415, End: 219332, Strand: +
+  Start: 219360, End: 220454, Strand: +
+  Start: 220482, End: 220949, Strand: +
+
+Operon 167 (2 genes):
+  Start: 221005, End: 221610, Strand: +
+  Start: 221649, End: 223274, Strand: +
+
+Operon 168 (1 genes):
+  Start: 223518, End: 224468, Strand: -
+
+Operon 169 (1 genes):
+  Start: 224467, End: 225588, Strand: +
+
+Operon 170 (2 genes):
+  Start: 225590, End: 226024, Strand: -
+  Start: 226021, End: 226179, Strand: -
+
+Operon 171 (1 genes):
+  Start: 227135, End: 228829, Strand: +
+
+Operon 172 (2 genes):
+  Start: 229052, End: 229441, Strand: +
+  Start: 229443, End: 230597, Strand: +
+
+Operon 173 (1 genes):
+  Start: 230650, End: 231078, Strand: -
+
+Operon 174 (3 genes):
+  Start: 231155, End: 231817, Strand: -
+  Start: 231863, End: 232645, Strand: -
+  Start: 232683, End: 232952, Strand: -
+
+Operon 175 (1 genes):
+  Start: 233317, End: 233841, Strand: +
+
+Operon 176 (1 genes):
+  Start: 233894, End: 234811, Strand: +
+
+Operon 177 (1 genes):
+  Start: 234808, End: 235626, Strand: -
+
+Operon 178 (2 genes):
+  Start: 235698, End: 236303, Strand: -
+  Start: 236318, End: 237037, Strand: -
+
+Operon 179 (1 genes):
+  Start: 237133, End: 237666, Strand: -
+
+Operon 180 (1 genes):
+  Start: 237843, End: 239951, Strand: +
+
+Operon 181 (1 genes):
+  Start: 240007, End: 240528, Strand: -
+
+Operon 182 (4 genes):
+  Start: 240541, End: 241296, Strand: +
+  Start: 241293, End: 242585, Strand: +
+  Start: 242582, End: 243412, Strand: +
+  Start: 243437, End: 244234, Strand: +
+
+Operon 183 (1 genes):
+  Start: 244231, End: 244632, Strand: -
+
+Operon 184 (1 genes):
+  Start: 244639, End: 245802, Strand: +
+
+Operon 185 (1 genes):
+  Start: 245809, End: 246108, Strand: -
+
+Operon 186 (1 genes):
+  Start: 246267, End: 246854, Strand: -
+
+Operon 187 (1 genes):
+  Start: 247008, End: 247967, Strand: -
+
+Operon 188 (1 genes):
+  Start: 248258, End: 248971, Strand: +
+
+Operon 189 (1 genes):
+  Start: 248973, End: 250817, Strand: -
+
+Operon 190 (1 genes):
+  Start: 251021, End: 251263, Strand: +
+
+Operon 191 (1 genes):
+  Start: 251273, End: 251884, Strand: -
+
+Operon 192 (4 genes):
+  Start: 251940, End: 253118, Strand: -
+  Start: 253158, End: 253667, Strand: -
+  Start: 253700, End: 253876, Strand: -
+  Start: 253914, End: 255653, Strand: -
+
+Operon 193 (1 genes):
+  Start: 255742, End: 257811, Strand: -
+
+Operon 194 (3 genes):
+  Start: 257872, End: 258939, Strand: -
+  Start: 258965, End: 260251, Strand: -
+  Start: 260291, End: 262549, Strand: -
+
+Operon 195 (1 genes):
+  Start: 262683, End: 263072, Strand: +
+
+Operon 196 (1 genes):
+  Start: 263073, End: 263978, Strand: -
+
+Operon 197 (1 genes):
+  Start: 264253, End: 264945, Strand: +
+
+Operon 198 (1 genes):
+  Start: 265000, End: 265620, Strand: +
+
+Operon 199 (1 genes):
+  Start: 265595, End: 266869, Strand: -
+
+Operon 200 (1 genes):
+  Start: 266878, End: 267267, Strand: +
+
+Operon 201 (1 genes):
+  Start: 267340, End: 268041, Strand: +
+
+Operon 202 (3 genes):
+  Start: 268046, End: 268906, Strand: -
+  Start: 268899, End: 272471, Strand: -
+  Start: 272493, End: 272777, Strand: -
+
+Operon 203 (1 genes):
+  Start: 272907, End: 274394, Strand: +
+
+Operon 204 (1 genes):
+  Start: 274440, End: 274601, Strand: -
+
+Operon 205 (1 genes):
+  Start: 274891, End: 275373, Strand: -
+
+Operon 206 (1 genes):
+  Start: 275494, End: 277983, Strand: +
+
+Operon 207 (3 genes):
+  Start: 278123, End: 279412, Strand: +
+  Start: 279446, End: 279664, Strand: +
+  Start: 279704, End: 280474, Strand: +
+
+Operon 208 (1 genes):
+  Start: 280487, End: 282370, Strand: -
+
+Operon 209 (2 genes):
+  Start: 282398, End: 282826, Strand: +
+  Start: 282823, End: 283725, Strand: +
+
+Operon 210 (1 genes):
+  Start: 283764, End: 284243, Strand: -
+
+Operon 211 (2 genes):
+  Start: 284272, End: 285273, Strand: +
+  Start: 285278, End: 286072, Strand: +
+
+Operon 212 (1 genes):
+  Start: 286131, End: 286952, Strand: +
+
+Operon 213 (1 genes):
+  Start: 286968, End: 288011, Strand: -
+
+Operon 214 (2 genes):
+  Start: 288101, End: 288445, Strand: +
+  Start: 288491, End: 289006, Strand: +
+
+Operon 215 (1 genes):
+  Start: 289515, End: 290222, Strand: -
+
+Operon 216 (1 genes):
+  Start: 290169, End: 291539, Strand: +
+
+Operon 217 (1 genes):
+  Start: 291616, End: 291984, Strand: +
+
+Operon 218 (2 genes):
+  Start: 291994, End: 292431, Strand: -
+  Start: 292433, End: 292606, Strand: -
+
+Operon 219 (2 genes):
+  Start: 292670, End: 293860, Strand: -
+  Start: 293888, End: 295060, Strand: -
+
+Operon 220 (1 genes):
+  Start: 295310, End: 296266, Strand: -
+
+Operon 221 (6 genes):
+  Start: 296344, End: 297144, Strand: +
+  Start: 297162, End: 297530, Strand: +
+  Start: 297545, End: 299011, Strand: +
+  Start: 299008, End: 299583, Strand: +
+  Start: 299568, End: 300425, Strand: +
+  Start: 300471, End: 300941, Strand: +
+
+Operon 222 (1 genes):
+  Start: 300938, End: 301228, Strand: -
+
+Operon 223 (1 genes):
+  Start: 301248, End: 302276, Strand: +
+
+Operon 224 (2 genes):
+  Start: 302277, End: 302999, Strand: -
+  Start: 303046, End: 304194, Strand: -
+
+Operon 225 (1 genes):
+  Start: 304268, End: 305170, Strand: -
+
+Operon 226 (1 genes):
+  Start: 305431, End: 305844, Strand: +
+
+Operon 227 (1 genes):
+  Start: 305902, End: 306699, Strand: +
+
+Operon 228 (1 genes):
+  Start: 306701, End: 307168, Strand: -
+
+Operon 229 (1 genes):
+  Start: 307290, End: 309215, Strand: -
+
+Operon 230 (1 genes):
+  Start: 309533, End: 309685, Strand: -
+
+Operon 231 (1 genes):
+  Start: 309807, End: 311312, Strand: +
+
+Operon 232 (2 genes):
+  Start: 311391, End: 311921, Strand: +
+  Start: 311957, End: 312946, Strand: +
+
+Operon 233 (1 genes):
+  Start: 313105, End: 314163, Strand: +
+
+Operon 234 (1 genes):
+  Start: 314156, End: 314971, Strand: -
+
+Operon 235 (2 genes):
+  Start: 315206, End: 316276, Strand: -
+  Start: 316309, End: 318105, Strand: -
+
+Operon 236 (1 genes):
+  Start: 318208, End: 319275, Strand: +
+
+Operon 237 (2 genes):
+  Start: 319297, End: 321744, Strand: -
+  Start: 321793, End: 323580, Strand: -
+
+Operon 238 (1 genes):
+  Start: 323468, End: 324955, Strand: +
+
+Operon 239 (2 genes):
+  Start: 325020, End: 325661, Strand: +
+  Start: 325698, End: 326195, Strand: +
+
+Operon 240 (1 genes):
+  Start: 326196, End: 326384, Strand: -
+
+Operon 241 (1 genes):
+  Start: 326468, End: 326947, Strand: +
+
+Operon 242 (1 genes):
+  Start: 326955, End: 328172, Strand: -
+
+Operon 243 (2 genes):
+  Start: 328415, End: 328807, Strand: +
+  Start: 328807, End: 329523, Strand: +
+
+Operon 244 (1 genes):
+  Start: 329653, End: 329967, Strand: -
+
+Operon 245 (1 genes):
+  Start: 330079, End: 331341, Strand: +
+
+Operon 246 (1 genes):
+  Start: 331342, End: 332112, Strand: -
+
+Operon 247 (1 genes):
+  Start: 332196, End: 332681, Strand: +
+
+Operon 248 (1 genes):
+  Start: 332688, End: 333338, Strand: -
+
+Operon 249 (1 genes):
+  Start: 333816, End: 334244, Strand: -
+
+Operon 250 (1 genes):
+  Start: 334368, End: 334703, Strand: +
+
+Operon 251 (2 genes):
+  Start: 334798, End: 335064, Strand: -
+  Start: 335061, End: 336626, Strand: -
+
+Operon 252 (1 genes):
+  Start: 336723, End: 338003, Strand: +
+
+Operon 253 (1 genes):
+  Start: 338014, End: 339384, Strand: -
+
+Operon 254 (1 genes):
+  Start: 339490, End: 339819, Strand: +
+
+Operon 255 (1 genes):
+  Start: 339822, End: 340952, Strand: -
+
+Operon 256 (1 genes):
+  Start: 341012, End: 341647, Strand: +
+
+Operon 257 (3 genes):
+  Start: 341670, End: 342908, Strand: -
+  Start: 342946, End: 343887, Strand: -
+  Start: 343909, End: 345117, Strand: -
+
+Operon 258 (2 genes):
+  Start: 345205, End: 346275, Strand: +
+  Start: 346272, End: 346910, Strand: +
+
+Operon 259 (1 genes):
+  Start: 346978, End: 347355, Strand: +
+
+Operon 260 (1 genes):
+  Start: 347367, End: 347990, Strand: -
+
+Operon 261 (3 genes):
+  Start: 348053, End: 348898, Strand: -
+  Start: 348905, End: 350605, Strand: -
+  Start: 350607, End: 351566, Strand: -
+
+Operon 262 (1 genes):
+  Start: 351622, End: 352656, Strand: -
+
+Operon 263 (1 genes):
+  Start: 352883, End: 353887, Strand: +
+
+Operon 264 (1 genes):
+  Start: 353960, End: 354931, Strand: +
+
+Operon 265 (1 genes):
+  Start: 355258, End: 356568, Strand: +
+
+Operon 266 (4 genes):
+  Start: 356605, End: 356889, Strand: -
+  Start: 356891, End: 357508, Strand: -
+  Start: 357501, End: 358391, Strand: -
+  Start: 358388, End: 359239, Strand: -
+
+Operon 267 (1 genes):
+  Start: 359388, End: 360221, Strand: -
+
+Operon 268 (1 genes):
+  Start: 360279, End: 361511, Strand: -
+
+Operon 269 (2 genes):
+  Start: 361705, End: 363387, Strand: -
+  Start: 363359, End: 364117, Strand: -
+
+Operon 270 (2 genes):
+  Start: 364276, End: 364476, Strand: -
+  Start: 364473, End: 364889, Strand: -
+
+Operon 271 (2 genes):
+  Start: 365304, End: 366173, Strand: -
+  Start: 366170, End: 367918, Strand: -
+
+Operon 272 (1 genes):
+  Start: 368167, End: 368811, Strand: +
+
+Operon 273 (1 genes):
+  Start: 369003, End: 369404, Strand: +
+
+Operon 274 (2 genes):
+  Start: 369409, End: 369825, Strand: -
+  Start: 369837, End: 370787, Strand: -
+
+Operon 275 (1 genes):
+  Start: 370841, End: 372802, Strand: -
+
+Operon 276 (1 genes):
+  Start: 372939, End: 373508, Strand: -
+
+Operon 277 (1 genes):
+  Start: 373577, End: 374761, Strand: -
+
+Operon 278 (1 genes):
+  Start: 374853, End: 376823, Strand: +
+
+Operon 279 (4 genes):
+  Start: 376820, End: 377209, Strand: -
+  Start: 377233, End: 377808, Strand: -
+  Start: 377808, End: 378581, Strand: -
+  Start: 378529, End: 379233, Strand: -
+
+Operon 280 (1 genes):
+  Start: 379302, End: 380477, Strand: -
+
+Operon 281 (1 genes):
+  Start: 380553, End: 382442, Strand: -
+
+Operon 282 (2 genes):
+  Start: 382599, End: 383294, Strand: -
+  Start: 383334, End: 383987, Strand: -
+
+Operon 283 (1 genes):
+  Start: 384063, End: 384446, Strand: -
+
+Operon 284 (2 genes):
+  Start: 384499, End: 385005, Strand: -
+  Start: 385002, End: 385913, Strand: -
+
+Operon 285 (1 genes):
+  Start: 386009, End: 386755, Strand: +
+
+Operon 286 (1 genes):
+  Start: 386766, End: 388004, Strand: -
+
+Operon 287 (1 genes):
+  Start: 388169, End: 389290, Strand: +
+
+Operon 288 (1 genes):
+  Start: 389355, End: 390143, Strand: +
+
+Operon 289 (1 genes):
+  Start: 390140, End: 391321, Strand: -
+
+Operon 290 (1 genes):
+  Start: 391432, End: 392532, Strand: +
+
+Operon 291 (1 genes):
+  Start: 392529, End: 392660, Strand: -
+
+Operon 292 (1 genes):
+  Start: 392861, End: 393733, Strand: -
+
+Operon 293 (2 genes):
+  Start: 393802, End: 393999, Strand: +
+  Start: 394049, End: 394186, Strand: +
+
+Operon 294 (1 genes):
+  Start: 394230, End: 395336, Strand: -
+
+Operon 295 (1 genes):
+  Start: 395657, End: 395887, Strand: +
+
+Operon 296 (2 genes):
+  Start: 395945, End: 397108, Strand: +
+  Start: 397105, End: 399756, Strand: +
+
+Operon 297 (1 genes):
+  Start: 399808, End: 400059, Strand: +
+
+Operon 298 (1 genes):
+  Start: 400501, End: 400614, Strand: -
+
+Operon 299 (1 genes):
+  Start: 400823, End: 401008, Strand: -
+
+Operon 300 (1 genes):
+  Start: 401122, End: 403827, Strand: +
+
+Operon 301 (1 genes):
+  Start: 403843, End: 404586, Strand: -
+
+Operon 302 (3 genes):
+  Start: 404888, End: 405814, Strand: +
+  Start: 405851, End: 407275, Strand: +
+  Start: 407277, End: 408491, Strand: +
+
+Operon 303 (1 genes):
+  Start: 408654, End: 409160, Strand: -
+
+Operon 304 (1 genes):
+  Start: 409159, End: 409593, Strand: +
+
+Operon 305 (1 genes):
+  Start: 410039, End: 410416, Strand: -
+
+Operon 306 (1 genes):
+  Start: 410415, End: 411128, Strand: +
+
+Operon 307 (1 genes):
+  Start: 411371, End: 412003, Strand: +
+
+Operon 308 (1 genes):
+  Start: 412027, End: 412317, Strand: -
+
+Operon 309 (1 genes):
+  Start: 412713, End: 413414, Strand: -
+
+Operon 310 (2 genes):
+  Start: 413539, End: 416253, Strand: -
+  Start: 416246, End: 416737, Strand: -
+
+Operon 311 (1 genes):
+  Start: 416799, End: 417755, Strand: -
+
+Operon 312 (1 genes):
+  Start: 417903, End: 419099, Strand: -
+
+Operon 313 (1 genes):
+  Start: 419196, End: 420488, Strand: +
+
+Operon 314 (1 genes):
+  Start: 420476, End: 420874, Strand: -
+
+Operon 315 (1 genes):
+  Start: 421208, End: 421615, Strand: +
+
+Operon 316 (5 genes):
+  Start: 421905, End: 422657, Strand: -
+  Start: 422662, End: 422844, Strand: -
+  Start: 422844, End: 423647, Strand: -
+  Start: 423644, End: 423817, Strand: -
+  Start: 423822, End: 424007, Strand: -
+
+Operon 317 (1 genes):
+  Start: 424253, End: 425932, Strand: +
+
+Operon 318 (1 genes):
+  Start: 425790, End: 428312, Strand: -
+
+Operon 319 (1 genes):
+  Start: 428425, End: 429981, Strand: +
+
+Operon 320 (1 genes):
+  Start: 430285, End: 430965, Strand: -
+
+Operon 321 (1 genes):
+  Start: 431034, End: 431600, Strand: -
+
+Operon 322 (3 genes):
+  Start: 431659, End: 433443, Strand: -
+  Start: 433440, End: 435059, Strand: -
+  Start: 435056, End: 436198, Strand: -
+
+Operon 323 (6 genes):
+  Start: 436530, End: 436886, Strand: -
+  Start: 436883, End: 437350, Strand: -
+  Start: 437347, End: 437877, Strand: -
+  Start: 437874, End: 438200, Strand: -
+  Start: 438197, End: 438472, Strand: -
+  Start: 438469, End: 439563, Strand: -
+
+Operon 324 (1 genes):
+  Start: 439733, End: 440911, Strand: -
+
+Operon 325 (1 genes):
+  Start: 441519, End: 442211, Strand: -
+
+Operon 326 (1 genes):
+  Start: 442210, End: 442467, Strand: +
+
+Operon 327 (1 genes):
+  Start: 442518, End: 443819, Strand: +
+
+Operon 328 (2 genes):
+  Start: 444303, End: 444683, Strand: +
+  Start: 444728, End: 445168, Strand: +
+
+Operon 329 (2 genes):
+  Start: 445263, End: 445523, Strand: -
+  Start: 445516, End: 445803, Strand: -
+
+Operon 330 (5 genes):
+  Start: 445897, End: 446661, Strand: -
+  Start: 446666, End: 447478, Strand: -
+  Start: 447481, End: 448311, Strand: -
+  Start: 448314, End: 448700, Strand: -
+  Start: 448700, End: 449389, Strand: -
+
+Operon 331 (1 genes):
+  Start: 449465, End: 450376, Strand: -
+
+Operon 332 (1 genes):
+  Start: 450472, End: 450960, Strand: +
+
+Operon 333 (1 genes):
+  Start: 450957, End: 451601, Strand: -
+
+Operon 334 (1 genes):
+  Start: 451701, End: 452384, Strand: -
+
+Operon 335 (1 genes):
+  Start: 452465, End: 453469, Strand: +
+
+Operon 336 (1 genes):
+  Start: 454135, End: 454461, Strand: +
+
+Operon 337 (1 genes):
+  Start: 454472, End: 455086, Strand: -
+
+Operon 338 (1 genes):
+  Start: 455876, End: 456031, Strand: +
+
+Operon 339 (1 genes):
+  Start: 456082, End: 456483, Strand: +
+
+Operon 340 (1 genes):
+  Start: 456480, End: 457472, Strand: -
+
+Operon 341 (1 genes):
+  Start: 457591, End: 458676, Strand: -
+
+Operon 342 (2 genes):
+  Start: 458746, End: 459027, Strand: +
+  Start: 459075, End: 459317, Strand: +
+
+Operon 343 (1 genes):
+  Start: 459333, End: 459794, Strand: -
+
+Operon 344 (1 genes):
+  Start: 460447, End: 460728, Strand: +
+
+Operon 345 (1 genes):
+  Start: 460913, End: 461737, Strand: +
+
+Operon 346 (2 genes):
+  Start: 461747, End: 462160, Strand: -
+  Start: 462193, End: 462840, Strand: -
+
+Operon 347 (1 genes):
+  Start: 462955, End: 463797, Strand: -
+
+Operon 348 (1 genes):
+  Start: 464523, End: 465503, Strand: +
+
+Operon 349 (1 genes):
+  Start: 466389, End: 466583, Strand: -
+
+Operon 350 (2 genes):
+  Start: 466928, End: 467362, Strand: -
+  Start: 467390, End: 469276, Strand: -
+
+Operon 351 (1 genes):
+  Start: 469912, End: 471549, Strand: -
+
+Operon 352 (1 genes):
+  Start: 471670, End: 472527, Strand: -
+
+Operon 353 (1 genes):
+  Start: 472598, End: 473500, Strand: -
+
+Operon 354 (1 genes):
+  Start: 473684, End: 474712, Strand: -
+
+Operon 355 (1 genes):
+  Start: 474797, End: 476572, Strand: +
+
+Operon 356 (1 genes):
+  Start: 476591, End: 476920, Strand: -
+
+Operon 357 (1 genes):
+  Start: 477027, End: 477500, Strand: -
+
+Operon 358 (1 genes):
+  Start: 477499, End: 478410, Strand: +
+
+Operon 359 (1 genes):
+  Start: 478615, End: 479733, Strand: +
+
+Operon 360 (2 genes):
+  Start: 479857, End: 480999, Strand: -
+  Start: 480996, End: 481397, Strand: -
+
+Operon 361 (1 genes):
+  Start: 481425, End: 483239, Strand: +
+
+Operon 362 (2 genes):
+  Start: 483366, End: 484460, Strand: +
+  Start: 484457, End: 485068, Strand: +
+
+Operon 363 (3 genes):
+  Start: 485194, End: 485604, Strand: +
+  Start: 485597, End: 486304, Strand: +
+  Start: 486301, End: 487989, Strand: +
+
+Operon 364 (2 genes):
+  Start: 488101, End: 489045, Strand: +
+  Start: 489042, End: 489503, Strand: +
+
+Operon 365 (1 genes):
+  Start: 489561, End: 489821, Strand: +
+
+Operon 366 (4 genes):
+  Start: 489893, End: 490126, Strand: +
+  Start: 490126, End: 490428, Strand: +
+  Start: 490430, End: 492508, Strand: +
+  Start: 492509, End: 494068, Strand: +
+
+Operon 367 (1 genes):
+  Start: 494341, End: 495552, Strand: +
+
+Operon 368 (2 genes):
+  Start: 495620, End: 497053, Strand: +
+  Start: 497085, End: 497903, Strand: +
+
+Operon 369 (1 genes):
+  Start: 498002, End: 498151, Strand: +
+
+Operon 370 (1 genes):
+  Start: 498404, End: 499984, Strand: +
+
+Operon 371 (1 genes):
+  Start: 499989, End: 500732, Strand: -
+
+Operon 372 (1 genes):
+  Start: 500787, End: 501026, Strand: -
+
+Operon 373 (1 genes):
+  Start: 501272, End: 503053, Strand: -
+
+Operon 374 (2 genes):
+  Start: 503179, End: 503406, Strand: -
+  Start: 503448, End: 503834, Strand: -
+
+Operon 375 (2 genes):
+  Start: 503953, End: 504810, Strand: +
+  Start: 504860, End: 505708, Strand: +
+
+Operon 376 (1 genes):
+  Start: 505709, End: 506476, Strand: -
+
+Operon 377 (4 genes):
+  Start: 506634, End: 507962, Strand: +
+  Start: 507963, End: 508619, Strand: +
+  Start: 508660, End: 509556, Strand: +
+  Start: 509553, End: 510302, Strand: +
+
+Operon 378 (2 genes):
+  Start: 510308, End: 510787, Strand: -
+  Start: 510805, End: 511413, Strand: -
+
+Operon 379 (2 genes):
+  Start: 511535, End: 511951, Strand: +
+  Start: 511953, End: 512927, Strand: +
+
+Operon 380 (1 genes):
+  Start: 512985, End: 513917, Strand: +
+
+Operon 381 (4 genes):
+  Start: 513894, End: 514277, Strand: -
+  Start: 514274, End: 515461, Strand: -
+  Start: 515503, End: 515790, Strand: -
+  Start: 515836, End: 517029, Strand: -
+
+Operon 382 (1 genes):
+  Start: 516984, End: 518156, Strand: +
+
+Operon 383 (1 genes):
+  Start: 518183, End: 519043, Strand: -
+
+Operon 384 (1 genes):
+  Start: 518991, End: 519815, Strand: +
+
+Operon 385 (3 genes):
+  Start: 519914, End: 520705, Strand: +
+  Start: 520705, End: 521568, Strand: +
+  Start: 521594, End: 522283, Strand: +
+
+Operon 386 (1 genes):
+  Start: 522644, End: 523456, Strand: +
+
+Operon 387 (2 genes):
+  Start: 523515, End: 524378, Strand: +
+  Start: 524375, End: 526114, Strand: +
+
+Operon 388 (1 genes):
+  Start: 526686, End: 527156, Strand: +
+
+Operon 389 (1 genes):
+  Start: 527209, End: 527625, Strand: +
+
+Operon 390 (1 genes):
+  Start: 527663, End: 527779, Strand: -
+
+Operon 391 (1 genes):
+  Start: 527835, End: 528500, Strand: -
+
+Operon 392 (1 genes):
+  Start: 528770, End: 531343, Strand: +
+
+Operon 393 (1 genes):
+  Start: 531405, End: 531611, Strand: +
+
+Operon 394 (1 genes):
+  Start: 531750, End: 532034, Strand: +
+
+Operon 395 (1 genes):
+  Start: 532038, End: 532409, Strand: -
+
+Operon 396 (1 genes):
+  Start: 532495, End: 534006, Strand: -
+
+Operon 397 (1 genes):
+  Start: 534180, End: 534779, Strand: +
+
+Operon 398 (1 genes):
+  Start: 534840, End: 535388, Strand: +
+
+Operon 399 (1 genes):
+  Start: 535522, End: 536508, Strand: +
+
+Operon 400 (2 genes):
+  Start: 536584, End: 537165, Strand: +
+  Start: 537212, End: 537907, Strand: +
+
+Operon 401 (1 genes):
+  Start: 537985, End: 539415, Strand: +
+
+Operon 402 (1 genes):
+  Start: 539412, End: 541040, Strand: -
+
+Operon 403 (1 genes):
+  Start: 541134, End: 541460, Strand: +
+
+Operon 404 (1 genes):
+  Start: 541473, End: 542150, Strand: -
+
+Operon 405 (1 genes):
+  Start: 542178, End: 543044, Strand: +
+
+Operon 406 (2 genes):
+  Start: 543049, End: 544518, Strand: -
+  Start: 544564, End: 545673, Strand: -
+
+Operon 407 (2 genes):
+  Start: 545760, End: 546020, Strand: +
+  Start: 546070, End: 546978, Strand: +
+
+Operon 408 (1 genes):
+  Start: 546988, End: 547578, Strand: -
+
+Operon 409 (1 genes):
+  Start: 547992, End: 549476, Strand: +
+
+Operon 410 (1 genes):
+  Start: 549641, End: 550258, Strand: +
+
+Operon 411 (1 genes):
+  Start: 550255, End: 551166, Strand: -
+
+Operon 412 (1 genes):
+  Start: 551252, End: 551722, Strand: +
+
+Operon 413 (1 genes):
+  Start: 551723, End: 552859, Strand: -
+
+Operon 414 (1 genes):
+  Start: 552804, End: 553373, Strand: +
+
+Operon 415 (1 genes):
+  Start: 553409, End: 554386, Strand: -
+
+Operon 416 (2 genes):
+  Start: 554704, End: 555291, Strand: +
+  Start: 555295, End: 557208, Strand: +
+
+Operon 417 (1 genes):
+  Start: 557214, End: 557657, Strand: -
+
+Operon 418 (1 genes):
+  Start: 557749, End: 557973, Strand: +
+
+Operon 419 (1 genes):
+  Start: 557985, End: 558617, Strand: -
+
+Operon 420 (1 genes):
+  Start: 558704, End: 559006, Strand: +
+
+Operon 421 (1 genes):
+  Start: 559020, End: 559724, Strand: -
+
+Operon 422 (1 genes):
+  Start: 559752, End: 560261, Strand: +
+
+Operon 423 (3 genes):
+  Start: 560272, End: 562254, Strand: -
+  Start: 562241, End: 563569, Strand: -
+  Start: 563560, End: 565773, Strand: -
+
+Operon 424 (1 genes):
+  Start: 565827, End: 567884, Strand: -
+
+Operon 425 (1 genes):
+  Start: 568228, End: 568947, Strand: +
+
+Operon 426 (1 genes):
+  Start: 569022, End: 569336, Strand: +
+
+Operon 427 (1 genes):
+  Start: 569376, End: 570320, Strand: -
+
+Operon 428 (2 genes):
+  Start: 570402, End: 571580, Strand: -
+  Start: 571614, End: 572417, Strand: -
+
+Operon 429 (1 genes):
+  Start: 572416, End: 573042, Strand: +
+
+Operon 430 (4 genes):
+  Start: 573224, End: 573769, Strand: +
+  Start: 573769, End: 574440, Strand: +
+  Start: 574437, End: 575162, Strand: +
+  Start: 575197, End: 575892, Strand: +
+
+Operon 431 (1 genes):
+  Start: 575902, End: 576015, Strand: -
+
+Operon 432 (1 genes):
+  Start: 576121, End: 576747, Strand: +
+
+Operon 433 (1 genes):
+  Start: 576838, End: 577914, Strand: +
+
+Operon 434 (1 genes):
+  Start: 577924, End: 578100, Strand: -
+
+Operon 435 (1 genes):
+  Start: 578203, End: 579231, Strand: +
+
+Operon 436 (3 genes):
+  Start: 579298, End: 579477, Strand: +
+  Start: 579518, End: 579742, Strand: +
+  Start: 579788, End: 580198, Strand: +
+
+Operon 437 (1 genes):
+  Start: 580451, End: 581962, Strand: -
+
+Operon 438 (1 genes):
+  Start: 582038, End: 583024, Strand: -
+
+Operon 439 (1 genes):
+  Start: 583046, End: 584185, Strand: +
+
+Operon 440 (2 genes):
+  Start: 584205, End: 584645, Strand: -
+  Start: 584642, End: 585127, Strand: -
+
+Operon 441 (2 genes):
+  Start: 585235, End: 587049, Strand: +
+  Start: 586952, End: 587128, Strand: +
+
+Operon 442 (1 genes):
+  Start: 588702, End: 590003, Strand: -
+
+Operon 443 (1 genes):
+  Start: 590056, End: 590733, Strand: -
+
+Operon 444 (1 genes):
+  Start: 590830, End: 591279, Strand: +
+
+Operon 445 (2 genes):
+  Start: 591340, End: 591960, Strand: -
+  Start: 591957, End: 592118, Strand: -
+
+Operon 446 (2 genes):
+  Start: 592199, End: 593302, Strand: -
+  Start: 593307, End: 593774, Strand: -
+
+Operon 447 (2 genes):
+  Start: 594361, End: 596730, Strand: -
+  Start: 596727, End: 597695, Strand: -
+
+Operon 448 (1 genes):
+  Start: 598271, End: 598744, Strand: +
+
+Operon 449 (1 genes):
+  Start: 598879, End: 600096, Strand: +
+
+Operon 450 (1 genes):
+  Start: 600156, End: 601424, Strand: +
+
+Operon 451 (2 genes):
+  Start: 601488, End: 602189, Strand: +
+  Start: 602186, End: 602782, Strand: +
+
+Operon 452 (1 genes):
+  Start: 603037, End: 603327, Strand: -
+
+Operon 453 (1 genes):
+  Start: 603453, End: 604346, Strand: +
+
+Operon 454 (1 genes):
+  Start: 604372, End: 606708, Strand: -
+
+Operon 455 (1 genes):
+  Start: 606864, End: 608225, Strand: -
+
+Operon 456 (1 genes):
+  Start: 608215, End: 608895, Strand: +
+
+Operon 457 (1 genes):
+  Start: 608896, End: 609288, Strand: -
+
+Operon 458 (2 genes):
+  Start: 609588, End: 611960, Strand: +
+  Start: 611957, End: 613207, Strand: +
+
+Operon 459 (1 genes):
+  Start: 613227, End: 613859, Strand: -
+
+Operon 460 (1 genes):
+  Start: 613864, End: 615006, Strand: +
+
+Operon 461 (1 genes):
+  Start: 615200, End: 616840, Strand: +
+
+Operon 462 (2 genes):
+  Start: 616933, End: 618651, Strand: +
+  Start: 618648, End: 620333, Strand: +
+
+Operon 463 (2 genes):
+  Start: 620587, End: 621240, Strand: -
+  Start: 621237, End: 622844, Strand: -
+
+Operon 464 (2 genes):
+  Start: 623369, End: 625054, Strand: -
+  Start: 625085, End: 625786, Strand: -
+
+Operon 465 (1 genes):
+  Start: 625866, End: 626312, Strand: -
+
+Operon 466 (1 genes):
+  Start: 626458, End: 627132, Strand: +
+
+Operon 467 (5 genes):
+  Start: 627213, End: 627452, Strand: +
+  Start: 627445, End: 629958, Strand: +
+  Start: 629955, End: 630743, Strand: +
+  Start: 630743, End: 632050, Strand: +
+  Start: 632047, End: 632625, Strand: +
+
+Operon 468 (1 genes):
+  Start: 632698, End: 633588, Strand: +
+
+Operon 469 (1 genes):
+  Start: 633600, End: 633962, Strand: -
+
+Operon 470 (1 genes):
+  Start: 635667, End: 636047, Strand: +
+
+Operon 471 (2 genes):
+  Start: 636909, End: 637199, Strand: +
+  Start: 637192, End: 638265, Strand: +
+
+Operon 472 (1 genes):
+  Start: 638529, End: 638633, Strand: -
+
+Operon 473 (1 genes):
+  Start: 638908, End: 639570, Strand: -
+
+Operon 474 (1 genes):
+  Start: 639672, End: 640481, Strand: -
+
+Operon 475 (1 genes):
+  Start: 640617, End: 642092, Strand: +
+
+Operon 476 (2 genes):
+  Start: 642117, End: 643022, Strand: -
+  Start: 643071, End: 644420, Strand: -
+
+Operon 477 (1 genes):
+  Start: 644507, End: 645466, Strand: -
+
+Operon 478 (1 genes):
+  Start: 645426, End: 646076, Strand: +
+
+Operon 479 (1 genes):
+  Start: 646085, End: 646483, Strand: -
+
+Operon 480 (2 genes):
+  Start: 646591, End: 647625, Strand: +
+  Start: 647674, End: 648294, Strand: +
+
+Operon 481 (1 genes):
+  Start: 648285, End: 650081, Strand: -
+
+Operon 482 (1 genes):
+  Start: 650181, End: 650465, Strand: +
+
+Operon 483 (1 genes):
+  Start: 650472, End: 651293, Strand: -
+
+Operon 484 (1 genes):
+  Start: 651537, End: 651836, Strand: +
+
+Operon 485 (1 genes):
+  Start: 651889, End: 652026, Strand: +
+
+Operon 486 (1 genes):
+  Start: 652034, End: 654136, Strand: -
+
+Operon 487 (2 genes):
+  Start: 654315, End: 654935, Strand: +
+  Start: 654935, End: 656017, Strand: +
+
+Operon 488 (2 genes):
+  Start: 656033, End: 656506, Strand: -
+  Start: 656539, End: 657525, Strand: -
+
+Operon 489 (2 genes):
+  Start: 657575, End: 657961, Strand: +
+  Start: 657961, End: 659232, Strand: +
+
+Operon 490 (1 genes):
+  Start: 659240, End: 659707, Strand: -
+
+Operon 491 (2 genes):
+  Start: 659810, End: 661324, Strand: +
+  Start: 661336, End: 661929, Strand: +
+
+Operon 492 (1 genes):
+  Start: 661987, End: 662982, Strand: +
+
+Operon 493 (2 genes):
+  Start: 663068, End: 663607, Strand: -
+  Start: 663648, End: 664013, Strand: -
+
+Operon 494 (1 genes):
+  Start: 664212, End: 664979, Strand: +
+
+Operon 495 (1 genes):
+  Start: 665121, End: 666806, Strand: +
+
+Operon 496 (1 genes):
+  Start: 666861, End: 667634, Strand: +
+
+Operon 497 (1 genes):
+  Start: 667700, End: 668494, Strand: +
+
+Operon 498 (2 genes):
+  Start: 668445, End: 669545, Strand: -
+  Start: 669542, End: 671956, Strand: -
+
+Operon 499 (2 genes):
+  Start: 672176, End: 674011, Strand: +
+  Start: 674013, End: 676487, Strand: +
+
+Operon 500 (4 genes):
+  Start: 676676, End: 677209, Strand: +
+  Start: 677255, End: 678424, Strand: +
+  Start: 678467, End: 678622, Strand: +
+  Start: 678619, End: 679143, Strand: +
+
+Operon 501 (1 genes):
+  Start: 679140, End: 679961, Strand: -
+
+Operon 502 (1 genes):
+  Start: 680015, End: 680419, Strand: -
+
+Operon 503 (4 genes):
+  Start: 680470, End: 681555, Strand: -
+  Start: 681548, End: 682771, Strand: -
+  Start: 682768, End: 684288, Strand: -
+  Start: 684313, End: 685362, Strand: -
+
+Operon 504 (2 genes):
+  Start: 685465, End: 686847, Strand: -
+  Start: 686893, End: 687372, Strand: -
+
+Operon 505 (1 genes):
+  Start: 687546, End: 687692, Strand: +
+
+Operon 506 (2 genes):
+  Start: 687787, End: 689355, Strand: +
+  Start: 689345, End: 689866, Strand: +
+
+Operon 507 (2 genes):
+  Start: 689936, End: 690208, Strand: +
+  Start: 690192, End: 691643, Strand: +
+
+Operon 508 (1 genes):
+  Start: 691613, End: 692713, Strand: -
+
+Operon 509 (1 genes):
+  Start: 692869, End: 694062, Strand: +
+
+Operon 510 (2 genes):
+  Start: 694068, End: 696365, Strand: -
+  Start: 696355, End: 696996, Strand: -
+
+Operon 511 (1 genes):
+  Start: 697055, End: 697939, Strand: -
+
+Operon 512 (1 genes):
+  Start: 698097, End: 698786, Strand: +
+
+Operon 513 (4 genes):
+  Start: 698755, End: 700821, Strand: -
+  Start: 700821, End: 701954, Strand: -
+  Start: 701947, End: 703560, Strand: -
+  Start: 703563, End: 704714, Strand: -
+
+Operon 514 (1 genes):
+  Start: 704811, End: 705812, Strand: -
+
+Operon 515 (1 genes):
+  Start: 705811, End: 705990, Strand: +
+
+Operon 516 (2 genes):
+  Start: 706028, End: 706747, Strand: -
+  Start: 706744, End: 708309, Strand: -
+
+Operon 517 (1 genes):
+  Start: 708396, End: 709412, Strand: +
+
+Operon 518 (2 genes):
+  Start: 709490, End: 710641, Strand: +
+  Start: 710638, End: 711030, Strand: +
+
+Operon 519 (1 genes):
+  Start: 711047, End: 712147, Strand: -
+
+Operon 520 (1 genes):
+  Start: 712274, End: 712447, Strand: -
+
+Operon 521 (1 genes):
+  Start: 712502, End: 713143, Strand: -
+
+Operon 522 (1 genes):
+  Start: 713283, End: 714095, Strand: -
+
+Operon 523 (1 genes):
+  Start: 714164, End: 715606, Strand: +
+
+Operon 524 (1 genes):
+  Start: 715619, End: 716419, Strand: -
+
+Operon 525 (2 genes):
+  Start: 716669, End: 718771, Strand: +
+  Start: 718768, End: 719832, Strand: +
+
+Operon 526 (1 genes):
+  Start: 719845, End: 720243, Strand: -
+
+Operon 527 (1 genes):
+  Start: 720331, End: 720678, Strand: +
+
+Operon 528 (1 genes):
+  Start: 720747, End: 721028, Strand: +
+
+Operon 529 (7 genes):
+  Start: 721030, End: 722001, Strand: -
+  Start: 722046, End: 723791, Strand: -
+  Start: 723798, End: 725687, Strand: -
+  Start: 725699, End: 726469, Strand: -
+  Start: 726466, End: 726921, Strand: -
+  Start: 726922, End: 727359, Strand: -
+  Start: 727343, End: 728857, Strand: -
+
+Operon 530 (2 genes):
+  Start: 728962, End: 729432, Strand: -
+  Start: 729429, End: 731339, Strand: -
+
+Operon 531 (1 genes):
+  Start: 731395, End: 731634, Strand: -
+
+Operon 532 (1 genes):
+  Start: 731799, End: 732380, Strand: +
+
+Operon 533 (1 genes):
+  Start: 732464, End: 732982, Strand: +
+
+Operon 534 (1 genes):
+  Start: 733066, End: 733575, Strand: +
+
+Operon 535 (1 genes):
+  Start: 733804, End: 734865, Strand: +
+
+Operon 536 (1 genes):
+  Start: 735009, End: 735881, Strand: +
+
+Operon 537 (1 genes):
+  Start: 735910, End: 736773, Strand: -
+
+Operon 538 (1 genes):
+  Start: 736840, End: 737544, Strand: -
+
+Operon 539 (7 genes):
+  Start: 737643, End: 738110, Strand: -
+  Start: 738107, End: 739246, Strand: -
+  Start: 739248, End: 739835, Strand: -
+  Start: 739838, End: 741844, Strand: -
+  Start: 741846, End: 742889, Strand: -
+  Start: 742886, End: 743248, Strand: -
+  Start: 743295, End: 743831, Strand: -
+
+Operon 540 (1 genes):
+  Start: 743896, End: 744489, Strand: -
+
+Operon 541 (1 genes):
+  Start: 744606, End: 745511, Strand: +
+
+Operon 542 (1 genes):
+  Start: 745648, End: 746763, Strand: +
+
+Operon 543 (1 genes):
+  Start: 746843, End: 747133, Strand: +
+
+Operon 544 (1 genes):
+  Start: 747151, End: 748605, Strand: -
+
+Operon 545 (1 genes):
+  Start: 749392, End: 751398, Strand: +
+
+Operon 546 (1 genes):
+  Start: 752276, End: 752803, Strand: +
+
+Operon 547 (1 genes):
+  Start: 753131, End: 753547, Strand: +
+
+Operon 548 (1 genes):
+  Start: 754149, End: 754391, Strand: +
+
+Operon 549 (1 genes):
+  Start: 754459, End: 755481, Strand: -
+
+Operon 550 (1 genes):
+  Start: 756010, End: 756183, Strand: +
+
+Operon 551 (1 genes):
+  Start: 756675, End: 757016, Strand: -
+
+Operon 552 (1 genes):
+  Start: 757409, End: 758119, Strand: -
+
+Operon 553 (1 genes):
+  Start: 758465, End: 759277, Strand: +
+
+Operon 554 (1 genes):
+  Start: 759667, End: 759870, Strand: -
+
+Operon 555 (1 genes):
+  Start: 760365, End: 760553, Strand: +
+
+Operon 556 (1 genes):
+  Start: 760682, End: 762487, Strand: +
+
+Operon 557 (1 genes):
+  Start: 762609, End: 764612, Strand: +
+
+Operon 558 (1 genes):
+  Start: 764619, End: 765629, Strand: -
+
+Operon 559 (1 genes):
+  Start: 765775, End: 766044, Strand: -
+
+Operon 560 (1 genes):
+  Start: 766603, End: 766812, Strand: +
+
+Operon 561 (1 genes):
+  Start: 766955, End: 768538, Strand: -
+
+Operon 562 (1 genes):
+  Start: 768965, End: 769882, Strand: +
+
+Operon 563 (1 genes):
+  Start: 769965, End: 770189, Strand: +
+
+Operon 564 (1 genes):
+  Start: 770194, End: 770406, Strand: -
+
+Operon 565 (1 genes):
+  Start: 770827, End: 771546, Strand: +
+
+Operon 566 (1 genes):
+  Start: 771722, End: 771925, Strand: -
+
+Operon 567 (1 genes):
+  Start: 773360, End: 773950, Strand: +
+
+Operon 568 (1 genes):
+  Start: 774034, End: 774546, Strand: +
+
+Operon 569 (2 genes):
+  Start: 774736, End: 775503, Strand: +
+  Start: 775533, End: 775805, Strand: +
+
+Operon 570 (1 genes):
+  Start: 775802, End: 777073, Strand: -
+
+Operon 571 (1 genes):
+  Start: 777110, End: 778453, Strand: +
+
+Operon 572 (2 genes):
+  Start: 778446, End: 778820, Strand: -
+  Start: 778857, End: 779960, Strand: -
+
+Operon 573 (7 genes):
+  Start: 780246, End: 782048, Strand: +
+  Start: 782045, End: 782896, Strand: +
+  Start: 782934, End: 783695, Strand: +
+  Start: 783700, End: 784716, Strand: +
+  Start: 784713, End: 785120, Strand: +
+  Start: 785117, End: 785962, Strand: +
+  Start: 785972, End: 786526, Strand: +
+
+Operon 574 (5 genes):
+  Start: 786530, End: 787174, Strand: -
+  Start: 787221, End: 787760, Strand: -
+  Start: 787803, End: 788402, Strand: -
+  Start: 788399, End: 788908, Strand: -
+  Start: 788905, End: 790092, Strand: -
+
+Operon 575 (1 genes):
+  Start: 790091, End: 790531, Strand: +
+
+Operon 576 (2 genes):
+  Start: 790599, End: 792188, Strand: -
+  Start: 792185, End: 792703, Strand: -
+
+Operon 577 (1 genes):
+  Start: 792760, End: 793494, Strand: -
+
+Operon 578 (1 genes):
+  Start: 793607, End: 794329, Strand: +
+
+Operon 579 (1 genes):
+  Start: 794483, End: 795025, Strand: +
+
+Operon 580 (1 genes):
+  Start: 795133, End: 795747, Strand: -
+
+Operon 581 (1 genes):
+  Start: 795777, End: 796229, Strand: +
+
+Operon 582 (1 genes):
+  Start: 796243, End: 796467, Strand: -
+
+Operon 583 (1 genes):
+  Start: 796466, End: 796759, Strand: +
+
+Operon 584 (1 genes):
+  Start: 796773, End: 798053, Strand: -
+
+Operon 585 (1 genes):
+  Start: 798126, End: 798476, Strand: -
+
+Operon 586 (1 genes):
+  Start: 798683, End: 799369, Strand: +
+
+Operon 587 (1 genes):
+  Start: 799383, End: 800300, Strand: -
+
+Operon 588 (1 genes):
+  Start: 800415, End: 801842, Strand: +
+
+Operon 589 (1 genes):
+  Start: 801935, End: 802657, Strand: +
+
+Operon 590 (1 genes):
+  Start: 802721, End: 803701, Strand: +
+
+Operon 591 (1 genes):
+  Start: 803726, End: 805084, Strand: -
+
+Operon 592 (1 genes):
+  Start: 805308, End: 806426, Strand: +
+
+Operon 593 (1 genes):
+  Start: 806499, End: 807695, Strand: -
+
+Operon 594 (1 genes):
+  Start: 807925, End: 808710, Strand: +
+
+Operon 595 (1 genes):
+  Start: 808831, End: 809730, Strand: +
+
+Operon 596 (1 genes):
+  Start: 809745, End: 810761, Strand: -
+
+Operon 597 (1 genes):
+  Start: 811152, End: 812492, Strand: -
+
+Operon 598 (2 genes):
+  Start: 812621, End: 813382, Strand: +
+  Start: 813372, End: 814280, Strand: +
+
+Operon 599 (1 genes):
+  Start: 814270, End: 815256, Strand: -
+
+Operon 600 (1 genes):
+  Start: 815317, End: 818580, Strand: +
+
+Operon 601 (1 genes):
+  Start: 818634, End: 819524, Strand: +
+
+Operon 602 (1 genes):
+  Start: 819545, End: 820756, Strand: -
+
+Operon 603 (3 genes):
+  Start: 820841, End: 821197, Strand: -
+  Start: 821245, End: 822726, Strand: -
+  Start: 822719, End: 823564, Strand: -
+
+Operon 604 (1 genes):
+  Start: 823711, End: 824646, Strand: -
+
+Operon 605 (1 genes):
+  Start: 824703, End: 826337, Strand: -
+
+Operon 606 (1 genes):
+  Start: 826509, End: 827423, Strand: -
+
+Operon 607 (3 genes):
+  Start: 827496, End: 829250, Strand: -
+  Start: 829247, End: 830572, Strand: -
+  Start: 830618, End: 831214, Strand: -
+
+Operon 608 (1 genes):
+  Start: 831377, End: 831595, Strand: +
+
+Operon 609 (1 genes):
+  Start: 831651, End: 831929, Strand: +
+
+Operon 610 (1 genes):
+  Start: 832010, End: 833953, Strand: +
+
+Operon 611 (1 genes):
+  Start: 833972, End: 834178, Strand: -
+
+Operon 612 (1 genes):
+  Start: 834481, End: 835803, Strand: +
+
+Operon 613 (1 genes):
+  Start: 835854, End: 836057, Strand: +
+
+Operon 614 (2 genes):
+  Start: 836666, End: 837766, Strand: -
+  Start: 837766, End: 838644, Strand: -
+
+Operon 615 (1 genes):
+  Start: 838735, End: 839919, Strand: +
+
+Operon 616 (1 genes):
+  Start: 839927, End: 840118, Strand: -
+
+Operon 617 (1 genes):
+  Start: 840223, End: 840531, Strand: -
+
+Operon 618 (1 genes):
+  Start: 840757, End: 842241, Strand: +
+
+Operon 619 (2 genes):
+  Start: 842300, End: 843136, Strand: +
+  Start: 843129, End: 843680, Strand: +
+
+Operon 620 (1 genes):
+  Start: 843690, End: 844934, Strand: -
+
+Operon 621 (3 genes):
+  Start: 845055, End: 845399, Strand: -
+  Start: 845405, End: 846463, Strand: -
+  Start: 846465, End: 847103, Strand: -
+
+Operon 622 (1 genes):
+  Start: 847304, End: 847795, Strand: -
+
+Operon 623 (1 genes):
+  Start: 847866, End: 848072, Strand: -
+
+Operon 624 (3 genes):
+  Start: 848173, End: 849285, Strand: +
+  Start: 849289, End: 849699, Strand: +
+  Start: 849749, End: 850534, Strand: +
+
+Operon 625 (1 genes):
+  Start: 850650, End: 851024, Strand: +
+
+Operon 626 (1 genes):
+  Start: 851026, End: 851874, Strand: -
+
+Operon 627 (1 genes):
+  Start: 851896, End: 852879, Strand: +
+
+Operon 628 (1 genes):
+  Start: 853114, End: 853365, Strand: +
+
+Operon 629 (1 genes):
+  Start: 853418, End: 853894, Strand: -
+
+Operon 630 (1 genes):
+  Start: 853986, End: 855161, Strand: +
+
+Operon 631 (1 genes):
+  Start: 855154, End: 855582, Strand: -
+
+Operon 632 (2 genes):
+  Start: 855719, End: 856657, Strand: -
+  Start: 856660, End: 858582, Strand: -
+
+Operon 633 (2 genes):
+  Start: 858687, End: 858911, Strand: -
+  Start: 858908, End: 859939, Strand: -
+
+Operon 634 (4 genes):
+  Start: 860275, End: 860790, Strand: +
+  Start: 860790, End: 861302, Strand: +
+  Start: 861309, End: 861692, Strand: +
+  Start: 861696, End: 862442, Strand: +
+
+Operon 635 (7 genes):
+  Start: 862694, End: 863047, Strand: +
+  Start: 863044, End: 863481, Strand: +
+  Start: 863475, End: 863873, Strand: +
+  Start: 863886, End: 864086, Strand: +
+  Start: 864089, End: 864271, Strand: +
+  Start: 864273, End: 865469, Strand: +
+  Start: 865466, End: 866215, Strand: +
+
+Operon 636 (1 genes):
+  Start: 866282, End: 867124, Strand: -
+
+Operon 637 (2 genes):
+  Start: 867210, End: 868202, Strand: +
+  Start: 868199, End: 868936, Strand: +
+
+Operon 638 (2 genes):
+  Start: 869155, End: 870501, Strand: +
+  Start: 870501, End: 871544, Strand: +
+
+Operon 639 (1 genes):
+  Start: 871623, End: 871844, Strand: +
+
+Operon 640 (1 genes):
+  Start: 871960, End: 873720, Strand: +
+
+Operon 641 (2 genes):
+  Start: 873734, End: 874207, Strand: -
+  Start: 874233, End: 876539, Strand: -
+
+Operon 642 (4 genes):
+  Start: 876667, End: 877029, Strand: +
+  Start: 877036, End: 877260, Strand: +
+  Start: 877260, End: 877448, Strand: +
+  Start: 877445, End: 877930, Strand: +
+
+Operon 643 (1 genes):
+  Start: 877978, End: 878925, Strand: -
+
+Operon 644 (2 genes):
+  Start: 878982, End: 879557, Strand: -
+  Start: 879550, End: 880452, Strand: -
+
+Operon 645 (4 genes):
+  Start: 880623, End: 881471, Strand: -
+  Start: 881509, End: 882102, Strand: -
+  Start: 882144, End: 882503, Strand: -
+  Start: 882503, End: 882802, Strand: -
+
+Operon 646 (1 genes):
+  Start: 883195, End: 884376, Strand: +
+
+Operon 647 (2 genes):
+  Start: 884446, End: 884745, Strand: -
+  Start: 884715, End: 884888, Strand: -
+
+Operon 648 (1 genes):
+  Start: 884967, End: 886922, Strand: -
+
+Operon 649 (2 genes):
+  Start: 886911, End: 887744, Strand: +
+  Start: 887741, End: 888373, Strand: +
+
+Operon 650 (2 genes):
+  Start: 888387, End: 888617, Strand: -
+  Start: 888617, End: 889327, Strand: -
+
+Operon 651 (2 genes):
+  Start: 889326, End: 889859, Strand: +
+  Start: 889903, End: 890526, Strand: +
+
+Operon 652 (1 genes):
+  Start: 890603, End: 891091, Strand: +
+
+Operon 653 (2 genes):
+  Start: 891125, End: 892330, Strand: -
+  Start: 892327, End: 892578, Strand: -
+
+Operon 654 (1 genes):
+  Start: 892721, End: 893791, Strand: +
+
+Operon 655 (2 genes):
+  Start: 893923, End: 895062, Strand: +
+  Start: 895069, End: 895686, Strand: +
+
+Operon 656 (1 genes):
+  Start: 895707, End: 896105, Strand: -
+
+Operon 657 (1 genes):
+  Start: 896255, End: 896857, Strand: -
+
+Operon 658 (1 genes):
+  Start: 896996, End: 898141, Strand: +
+
+Operon 659 (1 genes):
+  Start: 898154, End: 899398, Strand: -
+
+Operon 660 (2 genes):
+  Start: 899522, End: 899731, Strand: -
+  Start: 899768, End: 899878, Strand: -
+
+Operon 661 (1 genes):
+  Start: 900160, End: 900624, Strand: -
+
+Operon 662 (1 genes):
+  Start: 900703, End: 902079, Strand: -
+
+Operon 663 (1 genes):
+  Start: 902216, End: 902422, Strand: +
+
+Operon 664 (3 genes):
+  Start: 902438, End: 903073, Strand: -
+  Start: 903076, End: 903774, Strand: -
+  Start: 903818, End: 905068, Strand: -
+
+Operon 665 (1 genes):
+  Start: 905173, End: 906468, Strand: -
+
+Operon 666 (1 genes):
+  Start: 907027, End: 907659, Strand: -
+
+Operon 667 (4 genes):
+  Start: 907743, End: 909509, Strand: +
+  Start: 909509, End: 910429, Strand: +
+  Start: 910426, End: 911679, Strand: +
+  Start: 911697, End: 913253, Strand: +
+
+Operon 668 (1 genes):
+  Start: 913341, End: 914321, Strand: +
+
+Operon 669 (1 genes):
+  Start: 914979, End: 916109, Strand: +
+
+Operon 670 (2 genes):
+  Start: 916393, End: 916875, Strand: -
+  Start: 916872, End: 918068, Strand: -
+
+Operon 671 (1 genes):
+  Start: 918171, End: 918887, Strand: -
+
+Operon 672 (1 genes):
+  Start: 918850, End: 919596, Strand: +
+
+Operon 673 (1 genes):
+  Start: 919654, End: 919977, Strand: -
+
+Operon 674 (1 genes):
+  Start: 920669, End: 921862, Strand: +
+
+Operon 675 (1 genes):
+  Start: 922015, End: 922776, Strand: -
+
+Operon 676 (1 genes):
+  Start: 922865, End: 923065, Strand: +
+
+Operon 677 (1 genes):
+  Start: 923079, End: 923711, Strand: -
+
+Operon 678 (1 genes):
+  Start: 923886, End: 924092, Strand: +
+
+Operon 679 (1 genes):
+  Start: 924127, End: 925311, Strand: -
+
+Operon 680 (1 genes):
+  Start: 925560, End: 926879, Strand: -
+
+Operon 681 (1 genes):
+  Start: 926974, End: 928149, Strand: +
+
+Operon 682 (1 genes):
+  Start: 928165, End: 929535, Strand: -
+
+Operon 683 (2 genes):
+  Start: 929643, End: 930380, Strand: +
+  Start: 930370, End: 931761, Strand: +
+
+Operon 684 (1 genes):
+  Start: 931821, End: 932303, Strand: +
+
+Operon 685 (1 genes):
+  Start: 932347, End: 932466, Strand: -
+
+Operon 686 (2 genes):
+  Start: 932654, End: 932875, Strand: +
+  Start: 932862, End: 935048, Strand: +
+
+Operon 687 (1 genes):
+  Start: 935124, End: 935900, Strand: +
+
+Operon 688 (2 genes):
+  Start: 936143, End: 936409, Strand: -
+  Start: 936406, End: 937260, Strand: -
+
+Operon 689 (1 genes):
+  Start: 937348, End: 937776, Strand: +
+
+Operon 690 (3 genes):
+  Start: 937934, End: 938593, Strand: -
+  Start: 938596, End: 939666, Strand: -
+  Start: 939667, End: 940758, Strand: -
+
+Operon 691 (1 genes):
+  Start: 940842, End: 943682, Strand: -
+
+Operon 692 (3 genes):
+  Start: 943743, End: 944486, Strand: -
+  Start: 944486, End: 945883, Strand: -
+  Start: 945880, End: 947262, Strand: -
+
+Operon 693 (1 genes):
+  Start: 947257, End: 947919, Strand: +
+
+Operon 694 (2 genes):
+  Start: 947927, End: 948211, Strand: -
+  Start: 948260, End: 949348, Strand: -
+
+Operon 695 (1 genes):
+  Start: 949462, End: 949746, Strand: +
+
+Operon 696 (1 genes):
+  Start: 949891, End: 950073, Strand: +
+
+Operon 697 (1 genes):
+  Start: 950078, End: 950476, Strand: -
+
+Operon 698 (1 genes):
+  Start: 950618, End: 950860, Strand: +
+
+Operon 699 (1 genes):
+  Start: 950936, End: 951319, Strand: -
+
+Operon 700 (1 genes):
+  Start: 951404, End: 952309, Strand: +
+
+Operon 701 (1 genes):
+  Start: 952374, End: 953267, Strand: +
+
+Operon 702 (1 genes):
+  Start: 953515, End: 954315, Strand: -
+
+Operon 703 (1 genes):
+  Start: 954746, End: 955255, Strand: +
+
+Operon 704 (2 genes):
+  Start: 955464, End: 956882, Strand: +
+  Start: 956875, End: 957366, Strand: +
+
+Operon 705 (2 genes):
+  Start: 957376, End: 958683, Strand: -
+  Start: 958732, End: 959457, Strand: -
+
+Operon 706 (3 genes):
+  Start: 959518, End: 960012, Strand: -
+  Start: 960009, End: 960611, Strand: -
+  Start: 960595, End: 960975, Strand: -
+
+Operon 707 (3 genes):
+  Start: 961406, End: 962074, Strand: -
+  Start: 962119, End: 962319, Strand: -
+  Start: 962319, End: 963932, Strand: -
+
+Operon 708 (1 genes):
+  Start: 964009, End: 964770, Strand: -
+
+Operon 709 (2 genes):
+  Start: 964835, End: 965257, Strand: -
+  Start: 965294, End: 965509, Strand: -
+
+Operon 710 (2 genes):
+  Start: 965562, End: 966389, Strand: -
+  Start: 966430, End: 966543, Strand: -
+
+Operon 711 (1 genes):
+  Start: 966623, End: 967534, Strand: -
+
+Operon 712 (1 genes):
+  Start: 967595, End: 967786, Strand: -
+
+Operon 713 (1 genes):
+  Start: 967899, End: 968510, Strand: +
+
+Operon 714 (1 genes):
+  Start: 968577, End: 969803, Strand: +
+
+Operon 715 (1 genes):
+  Start: 969880, End: 971058, Strand: +
+
+Operon 716 (1 genes):
+  Start: 971265, End: 971507, Strand: +
+
+Operon 717 (1 genes):
+  Start: 971521, End: 972504, Strand: -
+
+Operon 718 (1 genes):
+  Start: 972633, End: 972983, Strand: +
+
+Operon 719 (1 genes):
+  Start: 972973, End: 975201, Strand: -
+
+Operon 720 (1 genes):
+  Start: 975273, End: 976565, Strand: +
+
+Operon 721 (4 genes):
+  Start: 976559, End: 978406, Strand: -
+  Start: 978413, End: 979291, Strand: -
+  Start: 979298, End: 979660, Strand: -
+  Start: 979662, End: 980084, Strand: -
+
+Operon 722 (1 genes):
+  Start: 980201, End: 980776, Strand: -
+
+Operon 723 (1 genes):
+  Start: 980918, End: 982897, Strand: +
+
+Operon 724 (2 genes):
+  Start: 983197, End: 983418, Strand: +
+  Start: 983324, End: 983818, Strand: +
+
+Operon 725 (1 genes):
+  Start: 983914, End: 984111, Strand: -
+
+Operon 726 (1 genes):
+  Start: 984228, End: 984569, Strand: +
+
+Operon 727 (1 genes):
+  Start: 984584, End: 986269, Strand: -
+
+Operon 728 (2 genes):
+  Start: 986348, End: 987505, Strand: +
+  Start: 987502, End: 989949, Strand: +
+
+Operon 729 (1 genes):
+  Start: 989961, End: 990395, Strand: -
+
+Operon 730 (1 genes):
+  Start: 990944, End: 991744, Strand: -
+
+Operon 731 (1 genes):
+  Start: 991743, End: 992111, Strand: +
+
+Operon 732 (1 genes):
+  Start: 992165, End: 992743, Strand: +
+
+Operon 733 (1 genes):
+  Start: 992751, End: 993020, Strand: -
+
+Operon 734 (1 genes):
+  Start: 993093, End: 993569, Strand: +
+
+Operon 735 (1 genes):
+  Start: 993598, End: 994200, Strand: -
+
+Operon 736 (2 genes):
+  Start: 994265, End: 995734, Strand: -
+  Start: 995751, End: 996206, Strand: -
+
+Operon 737 (1 genes):
+  Start: 996308, End: 997666, Strand: +
+
+Operon 738 (1 genes):
+  Start: 997742, End: 999307, Strand: +
+
+Operon 739 (1 genes):
+  Start: 999323, End: 1000228, Strand: -
+
+Operon 740 (2 genes):
+  Start: 1000227, End: 1000994, Strand: +
+  Start: 1000991, End: 1002007, Strand: +
+
+Operon 741 (1 genes):
+  Start: 1002024, End: 1002701, Strand: -
+
+Operon 742 (1 genes):
+  Start: 1002833, End: 1003978, Strand: -
+
+Operon 743 (2 genes):
+  Start: 1004042, End: 1004611, Strand: +
+  Start: 1004568, End: 1005329, Strand: +
+
+Operon 744 (1 genes):
+  Start: 1005333, End: 1005794, Strand: -
+
+Operon 745 (1 genes):
+  Start: 1005848, End: 1006789, Strand: -
+
+Operon 746 (1 genes):
+  Start: 1006932, End: 1007417, Strand: +
+
+Operon 747 (4 genes):
+  Start: 1007425, End: 1009293, Strand: -
+  Start: 1009330, End: 1010874, Strand: -
+  Start: 1010871, End: 1011350, Strand: -
+  Start: 1011395, End: 1012807, Strand: -
+
+Operon 748 (3 genes):
+  Start: 1013011, End: 1013259, Strand: -
+  Start: 1013308, End: 1014291, Strand: -
+  Start: 1014340, End: 1014834, Strand: -
+
+Operon 749 (1 genes):
+  Start: 1015011, End: 1015412, Strand: +
+
+Operon 750 (1 genes):
+  Start: 1015496, End: 1016482, Strand: +
+
+Operon 751 (1 genes):
+  Start: 1016483, End: 1017439, Strand: -
+
+Operon 752 (3 genes):
+  Start: 1017495, End: 1017722, Strand: -
+  Start: 1017722, End: 1018000, Strand: -
+  Start: 1018040, End: 1019149, Strand: -
+
+Operon 753 (3 genes):
+  Start: 1019209, End: 1020318, Strand: +
+  Start: 1020315, End: 1021511, Strand: +
+  Start: 1021561, End: 1022991, Strand: +
+
+Operon 754 (1 genes):
+  Start: 1023071, End: 1024891, Strand: +
+
+Operon 755 (1 genes):
+  Start: 1025206, End: 1026540, Strand: +
+
+Operon 756 (1 genes):
+  Start: 1026595, End: 1026759, Strand: -
+
+Operon 757 (2 genes):
+  Start: 1026961, End: 1027410, Strand: -
+  Start: 1027447, End: 1028247, Strand: -
+
+Operon 758 (1 genes):
+  Start: 1028559, End: 1029209, Strand: +
+
+Operon 759 (2 genes):
+  Start: 1029784, End: 1030257, Strand: +
+  Start: 1030300, End: 1030734, Strand: +
+
+Operon 760 (3 genes):
+  Start: 1030786, End: 1033188, Strand: +
+  Start: 1033228, End: 1033419, Strand: +
+  Start: 1033416, End: 1033934, Strand: +
+
+Operon 761 (3 genes):
+  Start: 1033931, End: 1034509, Strand: -
+  Start: 1034506, End: 1035285, Strand: -
+  Start: 1035287, End: 1036099, Strand: -
+
+Operon 762 (1 genes):
+  Start: 1036408, End: 1036719, Strand: +
+
+Operon 763 (2 genes):
+  Start: 1036721, End: 1037209, Strand: -
+  Start: 1037249, End: 1037746, Strand: -
+
+Operon 764 (1 genes):
+  Start: 1037808, End: 1039253, Strand: -
+
+Operon 765 (1 genes):
+  Start: 1039323, End: 1040405, Strand: -
+
+Operon 766 (1 genes):
+  Start: 1040466, End: 1040909, Strand: -
+
+Operon 767 (3 genes):
+  Start: 1040976, End: 1041458, Strand: -
+  Start: 1041502, End: 1041948, Strand: -
+  Start: 1041974, End: 1042369, Strand: -
+
+Operon 768 (1 genes):
+  Start: 1042533, End: 1042907, Strand: -
+
+Operon 769 (1 genes):
+  Start: 1043067, End: 1043468, Strand: +
+
+Operon 770 (1 genes):
+  Start: 1043980, End: 1045554, Strand: +
+
+Operon 771 (1 genes):
+  Start: 1045627, End: 1046025, Strand: +
+
+Operon 772 (1 genes):
+  Start: 1046073, End: 1048121, Strand: -
+
+Operon 773 (1 genes):
+  Start: 1048271, End: 1049413, Strand: +
+
+Operon 774 (1 genes):
+  Start: 1049424, End: 1050434, Strand: -
+
+Operon 775 (2 genes):
+  Start: 1051252, End: 1052118, Strand: -
+  Start: 1052148, End: 1053737, Strand: -
+
+Operon 776 (1 genes):
+  Start: 1053950, End: 1055224, Strand: +
+
+Operon 777 (1 genes):
+  Start: 1055397, End: 1056290, Strand: +
+
+Operon 778 (1 genes):
+  Start: 1056325, End: 1057122, Strand: -
+
+Operon 779 (1 genes):
+  Start: 1057123, End: 1058421, Strand: +
+
+Operon 780 (2 genes):
+  Start: 1058589, End: 1059044, Strand: +
+  Start: 1059075, End: 1059986, Strand: +
+
+Operon 781 (1 genes):
+  Start: 1060045, End: 1060191, Strand: +
+
+Operon 782 (1 genes):
+  Start: 1060402, End: 1060698, Strand: -
+
+Operon 783 (2 genes):
+  Start: 1060839, End: 1061117, Strand: +
+  Start: 1061121, End: 1061363, Strand: +
+
+Operon 784 (1 genes):
+  Start: 1061360, End: 1062508, Strand: -
+
+Operon 785 (1 genes):
+  Start: 1062600, End: 1063610, Strand: +
+
+Operon 786 (1 genes):
+  Start: 1063672, End: 1064343, Strand: +
+
+Operon 787 (1 genes):
+  Start: 1064474, End: 1065466, Strand: +
+
+Operon 788 (2 genes):
+  Start: 1065552, End: 1065731, Strand: +
+  Start: 1065778, End: 1066809, Strand: +
+
+Operon 789 (1 genes):
+  Start: 1067076, End: 1067780, Strand: -
+
+Operon 790 (1 genes):
+  Start: 1068124, End: 1068375, Strand: +
+
+Operon 791 (2 genes):
+  Start: 1068714, End: 1069064, Strand: -
+  Start: 1069113, End: 1070375, Strand: -
+
+Operon 792 (1 genes):
+  Start: 1070493, End: 1071770, Strand: +
+
+Operon 793 (2 genes):
+  Start: 1071909, End: 1072142, Strand: -
+  Start: 1072166, End: 1073080, Strand: -
+
+Operon 794 (1 genes):
+  Start: 1073153, End: 1073392, Strand: -
+
+Operon 795 (2 genes):
+  Start: 1073658, End: 1074833, Strand: +
+  Start: 1074878, End: 1075960, Strand: +
+
+Operon 796 (1 genes):
+  Start: 1075969, End: 1076835, Strand: -
+
+Operon 797 (1 genes):
+  Start: 1076841, End: 1077320, Strand: +
+
+Operon 798 (3 genes):
+  Start: 1077321, End: 1078823, Strand: -
+  Start: 1078862, End: 1079908, Strand: -
+  Start: 1079946, End: 1080326, Strand: -
+
+Operon 799 (1 genes):
+  Start: 1080325, End: 1081038, Strand: +
+
+Operon 800 (1 genes):
+  Start: 1081040, End: 1082008, Strand: -
+
+Operon 801 (1 genes):
+  Start: 1082119, End: 1082265, Strand: -
+
+Operon 802 (2 genes):
+  Start: 1082555, End: 1082767, Strand: -
+  Start: 1082767, End: 1084842, Strand: -
+
+Operon 803 (1 genes):
+  Start: 1085033, End: 1085461, Strand: +
+
+Operon 804 (2 genes):
+  Start: 1085495, End: 1087519, Strand: -
+  Start: 1087516, End: 1088622, Strand: -
+
+Operon 805 (1 genes):
+  Start: 1088744, End: 1088878, Strand: +
+
+Operon 806 (1 genes):
+  Start: 1089122, End: 1089910, Strand: +
+
+Operon 807 (1 genes):
+  Start: 1089962, End: 1090231, Strand: +
+
+Operon 808 (2 genes):
+  Start: 1090362, End: 1091636, Strand: +
+  Start: 1091633, End: 1092457, Strand: +
+
+Operon 809 (2 genes):
+  Start: 1092551, End: 1094830, Strand: -
+  Start: 1094827, End: 1095075, Strand: -
+
+Operon 810 (1 genes):
+  Start: 1095190, End: 1096014, Strand: +
+
+Operon 811 (2 genes):
+  Start: 1096286, End: 1097941, Strand: +
+  Start: 1097962, End: 1100202, Strand: +
+
+Operon 812 (1 genes):
+  Start: 1100204, End: 1101028, Strand: -
+
+Operon 813 (1 genes):
+  Start: 1101172, End: 1101351, Strand: +
+
+Operon 814 (1 genes):
+  Start: 1101355, End: 1101738, Strand: -
+
+Operon 815 (1 genes):
+  Start: 1102027, End: 1102542, Strand: +
+
+Operon 816 (1 genes):
+  Start: 1102552, End: 1103676, Strand: -
+
+Operon 817 (1 genes):
+  Start: 1103741, End: 1104244, Strand: -
+
+Operon 818 (1 genes):
+  Start: 1104331, End: 1105599, Strand: +
+
+Operon 819 (1 genes):
+  Start: 1105679, End: 1105840, Strand: +
+
+Operon 820 (1 genes):
+  Start: 1105936, End: 1106394, Strand: +
+
+Operon 821 (1 genes):
+  Start: 1106448, End: 1107095, Strand: +
+
+Operon 822 (1 genes):
+  Start: 1107155, End: 1107559, Strand: +
+
+Operon 823 (1 genes):
+  Start: 1107931, End: 1108500, Strand: +
+
+Operon 824 (1 genes):
+  Start: 1108559, End: 1110031, Strand: -
+
+Operon 825 (3 genes):
+  Start: 1110237, End: 1110413, Strand: -
+  Start: 1110410, End: 1110619, Strand: -
+  Start: 1110649, End: 1111710, Strand: -
+
+Operon 826 (1 genes):
+  Start: 1112065, End: 1113018, Strand: +
+
+Operon 827 (1 genes):
+  Start: 1113019, End: 1113681, Strand: -
+
+Operon 828 (2 genes):
+  Start: 1113845, End: 1116310, Strand: +
+  Start: 1116360, End: 1117103, Strand: +
+
+Operon 829 (1 genes):
+  Start: 1117100, End: 1118569, Strand: -
+
+Operon 830 (1 genes):
+  Start: 1118630, End: 1119703, Strand: -
+
+Operon 831 (1 genes):
+  Start: 1119763, End: 1121874, Strand: -
+
+Operon 832 (3 genes):
+  Start: 1121952, End: 1123601, Strand: -
+  Start: 1123649, End: 1125703, Strand: -
+  Start: 1125749, End: 1125985, Strand: -
+
+Operon 833 (2 genes):
+  Start: 1126036, End: 1126644, Strand: -
+  Start: 1126648, End: 1127235, Strand: -
+
+Operon 834 (1 genes):
+  Start: 1127342, End: 1127782, Strand: +
+
+Operon 835 (1 genes):
+  Start: 1127799, End: 1128008, Strand: -
+
+Operon 836 (1 genes):
+  Start: 1128085, End: 1129023, Strand: -
+
+Operon 837 (1 genes):
+  Start: 1129509, End: 1131440, Strand: +
+
+Operon 838 (1 genes):
+  Start: 1131444, End: 1132820, Strand: -
+
+Operon 839 (1 genes):
+  Start: 1132953, End: 1134599, Strand: -
+
+Operon 840 (1 genes):
+  Start: 1134520, End: 1135863, Strand: +
+
+Operon 841 (1 genes):
+  Start: 1136003, End: 1137436, Strand: +
+
+Operon 842 (2 genes):
+  Start: 1137505, End: 1139055, Strand: +
+  Start: 1139055, End: 1139312, Strand: +
+
+Operon 843 (1 genes):
+  Start: 1139423, End: 1141255, Strand: +
+
+Operon 844 (1 genes):
+  Start: 1141390, End: 1143534, Strand: +
+
+Operon 845 (1 genes):
+  Start: 1143583, End: 1143726, Strand: -
+
+Operon 846 (1 genes):
+  Start: 1143881, End: 1144840, Strand: +
+
+Operon 847 (1 genes):
+  Start: 1144847, End: 1145290, Strand: -
+
+Operon 848 (1 genes):
+  Start: 1145342, End: 1146571, Strand: -
+
+Operon 849 (1 genes):
+  Start: 1146674, End: 1147519, Strand: +
+
+Operon 850 (1 genes):
+  Start: 1147554, End: 1148264, Strand: -
+
+Operon 851 (2 genes):
+  Start: 1148259, End: 1149530, Strand: +
+  Start: 1149527, End: 1150396, Strand: +
+
+Operon 852 (1 genes):
+  Start: 1150451, End: 1151497, Strand: +
+
+Operon 853 (1 genes):
+  Start: 1151507, End: 1153885, Strand: -
+
+Operon 854 (2 genes):
+  Start: 1154318, End: 1154809, Strand: -
+  Start: 1154857, End: 1155096, Strand: -
+
+Operon 855 (1 genes):
+  Start: 1155952, End: 1156764, Strand: -
+
+Operon 856 (11 genes):
+  Start: 1156903, End: 1157466, Strand: +
+  Start: 1157463, End: 1158167, Strand: +
+  Start: 1158160, End: 1159026, Strand: +
+  Start: 1159023, End: 1160000, Strand: +
+  Start: 1159997, End: 1160827, Strand: +
+  Start: 1160827, End: 1161834, Strand: +
+  Start: 1161834, End: 1162082, Strand: +
+  Start: 1162079, End: 1162777, Strand: +
+  Start: 1162804, End: 1163997, Strand: +
+  Start: 1163994, End: 1164365, Strand: +
+  Start: 1164343, End: 1165566, Strand: +
+
+Operon 857 (1 genes):
+  Start: 1165595, End: 1167667, Strand: -
+
+Operon 858 (3 genes):
+  Start: 1167897, End: 1171601, Strand: +
+  Start: 1171591, End: 1172304, Strand: +
+  Start: 1172301, End: 1173053, Strand: +
+
+Operon 859 (1 genes):
+  Start: 1173050, End: 1173820, Strand: -
+
+Operon 860 (4 genes):
+  Start: 1174064, End: 1174966, Strand: +
+  Start: 1174953, End: 1176278, Strand: +
+  Start: 1176275, End: 1176952, Strand: +
+  Start: 1176954, End: 1178492, Strand: +
+
+Operon 861 (2 genes):
+  Start: 1178690, End: 1179148, Strand: +
+  Start: 1179145, End: 1180071, Strand: +
+
+Operon 862 (4 genes):
+  Start: 1180212, End: 1180811, Strand: +
+  Start: 1180811, End: 1181380, Strand: +
+  Start: 1181398, End: 1182408, Strand: +
+  Start: 1182401, End: 1183096, Strand: +
+
+Operon 863 (1 genes):
+  Start: 1183163, End: 1184704, Strand: -
+
+Operon 864 (1 genes):
+  Start: 1184767, End: 1185759, Strand: +
+
+Operon 865 (1 genes):
+  Start: 1188524, End: 1188937, Strand: +
+
+Operon 866 (1 genes):
+  Start: 1189410, End: 1189679, Strand: -
+
+Operon 867 (1 genes):
+  Start: 1189961, End: 1190134, Strand: +
+
+Operon 868 (2 genes):
+  Start: 1190152, End: 1190961, Strand: -
+  Start: 1190958, End: 1191887, Strand: -
+
+Operon 869 (1 genes):
+  Start: 1191948, End: 1192379, Strand: +
+
+Operon 870 (2 genes):
+  Start: 1192390, End: 1193811, Strand: -
+  Start: 1193811, End: 1195136, Strand: -
+
+Operon 871 (2 genes):
+  Start: 1195419, End: 1195793, Strand: -
+  Start: 1195790, End: 1196881, Strand: -
+
+Operon 872 (1 genes):
+  Start: 1197028, End: 1197618, Strand: -
+
+Operon 873 (1 genes):
+  Start: 1197636, End: 1198199, Strand: +
+
+Operon 874 (1 genes):
+  Start: 1198223, End: 1198930, Strand: -
+
+Operon 875 (1 genes):
+  Start: 1199058, End: 1199903, Strand: +
+
+Operon 876 (1 genes):
+  Start: 1199977, End: 1200564, Strand: +
+
+Operon 877 (1 genes):
+  Start: 1201805, End: 1202614, Strand: +
+
+Operon 878 (1 genes):
+  Start: 1202684, End: 1204021, Strand: +
+
+Operon 879 (1 genes):
+  Start: 1204023, End: 1204607, Strand: -
+
+Operon 880 (1 genes):
+  Start: 1204670, End: 1205479, Strand: -
+
+Operon 881 (1 genes):
+  Start: 1205478, End: 1205966, Strand: +
+
+Operon 882 (2 genes):
+  Start: 1205963, End: 1206535, Strand: -
+  Start: 1206584, End: 1207039, Strand: -
+
+Operon 883 (1 genes):
+  Start: 1207038, End: 1208543, Strand: +
+
+Operon 884 (1 genes):
+  Start: 1208540, End: 1209373, Strand: -
+
+Operon 885 (1 genes):
+  Start: 1209504, End: 1211756, Strand: +
+
+Operon 886 (1 genes):
+  Start: 1211764, End: 1212387, Strand: -
+
+Operon 887 (1 genes):
+  Start: 1212650, End: 1213414, Strand: +
+
+Operon 888 (1 genes):
+  Start: 1213427, End: 1214401, Strand: -
+
+Operon 889 (1 genes):
+  Start: 1214457, End: 1214690, Strand: -
+
+Operon 890 (1 genes):
+  Start: 1214890, End: 1215618, Strand: -
+
+Operon 891 (3 genes):
+  Start: 1215673, End: 1216401, Strand: -
+  Start: 1216405, End: 1216695, Strand: -
+  Start: 1216692, End: 1217354, Strand: -
+
+Operon 892 (1 genes):
+  Start: 1217584, End: 1218441, Strand: +
+
+Operon 893 (1 genes):
+  Start: 1218759, End: 1219889, Strand: +
+
+Operon 894 (1 genes):
+  Start: 1219873, End: 1220253, Strand: -
+
+Operon 895 (1 genes):
+  Start: 1220349, End: 1220975, Strand: +
+
+Operon 896 (1 genes):
+  Start: 1220972, End: 1221094, Strand: -
+
+Operon 897 (1 genes):
+  Start: 1221158, End: 1224313, Strand: -
+
+Operon 898 (1 genes):
+  Start: 1224647, End: 1224832, Strand: +
+
+Operon 899 (4 genes):
+  Start: 1224838, End: 1225434, Strand: -
+  Start: 1225431, End: 1227014, Strand: -
+  Start: 1227011, End: 1227667, Strand: -
+  Start: 1227664, End: 1228674, Strand: -
+
+Operon 900 (1 genes):
+  Start: 1229492, End: 1230340, Strand: -
+
+Operon 901 (1 genes):
+  Start: 1230496, End: 1230699, Strand: -
+
+Operon 902 (1 genes):
+  Start: 1231161, End: 1232435, Strand: +
+
+Operon 903 (1 genes):
+  Start: 1232639, End: 1233823, Strand: -
+
+Operon 904 (2 genes):
+  Start: 1234475, End: 1234831, Strand: -
+  Start: 1234828, End: 1235829, Strand: -
+
+Operon 905 (1 genes):
+  Start: 1235959, End: 1236402, Strand: +
+
+Operon 906 (1 genes):
+  Start: 1236404, End: 1236835, Strand: -
+
+Operon 907 (2 genes):
+  Start: 1237084, End: 1238694, Strand: +
+  Start: 1238694, End: 1239413, Strand: +
+
+Operon 908 (1 genes):
+  Start: 1239515, End: 1240657, Strand: +
+
+Operon 909 (1 genes):
+  Start: 1240710, End: 1240901, Strand: +
+
+Operon 910 (1 genes):
+  Start: 1240909, End: 1241619, Strand: -
+
+Operon 911 (1 genes):
+  Start: 1241720, End: 1242487, Strand: -
+
+Operon 912 (1 genes):
+  Start: 1242669, End: 1244897, Strand: +
+
+Operon 913 (1 genes):
+  Start: 1244981, End: 1245355, Strand: -
+
+Operon 914 (2 genes):
+  Start: 1245442, End: 1245897, Strand: +
+  Start: 1245887, End: 1246270, Strand: +
+
+Operon 915 (1 genes):
+  Start: 1246366, End: 1247169, Strand: +
+
+Operon 916 (1 genes):
+  Start: 1247170, End: 1247331, Strand: -
+
+Operon 917 (2 genes):
+  Start: 1247384, End: 1247893, Strand: +
+  Start: 1247923, End: 1248534, Strand: +
+
+Operon 918 (2 genes):
+  Start: 1248609, End: 1250231, Strand: +
+  Start: 1250266, End: 1250634, Strand: +
+
+Operon 919 (1 genes):
+  Start: 1250640, End: 1251131, Strand: -
+
+Operon 920 (1 genes):
+  Start: 1251280, End: 1252248, Strand: +
+
+Operon 921 (4 genes):
+  Start: 1252256, End: 1253095, Strand: -
+  Start: 1253088, End: 1253915, Strand: -
+  Start: 1253922, End: 1255460, Strand: -
+  Start: 1255507, End: 1256442, Strand: -
+
+Operon 922 (1 genes):
+  Start: 1256502, End: 1257755, Strand: -
+
+Operon 923 (25 genes):
+  Start: 1258177, End: 1259028, Strand: +
+  Start: 1259033, End: 1260040, Strand: +
+  Start: 1260044, End: 1260796, Strand: +
+  Start: 1260793, End: 1261047, Strand: +
+  Start: 1261050, End: 1261772, Strand: +
+  Start: 1261776, End: 1262198, Strand: +
+  Start: 1262202, End: 1262672, Strand: +
+  Start: 1262672, End: 1263580, Strand: +
+  Start: 1263580, End: 1263795, Strand: +
+  Start: 1263804, End: 1264175, Strand: +
+  Start: 1264166, End: 1264495, Strand: +
+  Start: 1264495, End: 1264893, Strand: +
+  Start: 1264898, End: 1265254, Strand: +
+  Start: 1265251, End: 1265952, Strand: +
+  Start: 1265949, End: 1266476, Strand: +
+  Start: 1266473, End: 1266631, Strand: +
+  Start: 1266634, End: 1267026, Strand: +
+  Start: 1267030, End: 1267566, Strand: +
+  Start: 1267570, End: 1268289, Strand: +
+  Start: 1268282, End: 1268731, Strand: +
+  Start: 1268731, End: 1269282, Strand: +
+  Start: 1269286, End: 1269924, Strand: +
+  Start: 1269924, End: 1270388, Strand: +
+  Start: 1270394, End: 1270855, Strand: +
+  Start: 1270859, End: 1272334, Strand: +
+
+Operon 924 (1 genes):
+  Start: 1272410, End: 1273573, Strand: +
+
+Operon 925 (1 genes):
+  Start: 1273771, End: 1275447, Strand: -
+
+Operon 926 (1 genes):
+  Start: 1275550, End: 1275960, Strand: -
+
+Operon 927 (1 genes):
+  Start: 1276049, End: 1276699, Strand: +
+
+Operon 928 (1 genes):
+  Start: 1276763, End: 1277635, Strand: +
+
+Operon 929 (2 genes):
+  Start: 1277691, End: 1278269, Strand: +
+  Start: 1278244, End: 1279176, Strand: +
+
+Operon 930 (1 genes):
+  Start: 1279783, End: 1281537, Strand: -
+
+Operon 931 (2 genes):
+  Start: 1281743, End: 1283353, Strand: -
+  Start: 1283350, End: 1283685, Strand: -
+
+Operon 932 (1 genes):
+  Start: 1283837, End: 1284622, Strand: +
+
+Operon 933 (3 genes):
+  Start: 1284679, End: 1285650, Strand: +
+  Start: 1285676, End: 1286515, Strand: +
+  Start: 1286560, End: 1287537, Strand: +
+
+Operon 934 (1 genes):
+  Start: 1287622, End: 1288281, Strand: +
+
+Operon 935 (1 genes):
+  Start: 1288323, End: 1289183, Strand: -
+
+Operon 936 (1 genes):
+  Start: 1289265, End: 1289954, Strand: +
+
+Operon 937 (1 genes):
+  Start: 1289955, End: 1290629, Strand: -
+
+Operon 938 (1 genes):
+  Start: 1290751, End: 1291941, Strand: +
+
+Operon 939 (1 genes):
+  Start: 1291955, End: 1292908, Strand: -
+
+Operon 940 (1 genes):
+  Start: 1292962, End: 1293393, Strand: -
+
+Operon 941 (2 genes):
+  Start: 1293457, End: 1294845, Strand: -
+  Start: 1294848, End: 1296458, Strand: -
+
+Operon 942 (1 genes):
+  Start: 1296538, End: 1296789, Strand: +
+
+Operon 943 (2 genes):
+  Start: 1296996, End: 1297283, Strand: +
+  Start: 1297280, End: 1298917, Strand: +
+
+Operon 944 (2 genes):
+  Start: 1298933, End: 1301365, Strand: -
+  Start: 1301370, End: 1302374, Strand: -
+
+Operon 945 (2 genes):
+  Start: 1304168, End: 1304881, Strand: -
+  Start: 1304883, End: 1307177, Strand: -
+
+Operon 946 (3 genes):
+  Start: 1307267, End: 1308028, Strand: -
+  Start: 1308056, End: 1308874, Strand: -
+  Start: 1308878, End: 1309261, Strand: -
+
+Operon 947 (2 genes):
+  Start: 1309363, End: 1310190, Strand: -
+  Start: 1310187, End: 1311800, Strand: -
+
+Operon 948 (1 genes):
+  Start: 1311933, End: 1312283, Strand: -
+
+Operon 949 (1 genes):
+  Start: 1312357, End: 1313013, Strand: -
+
+Operon 950 (1 genes):
+  Start: 1313067, End: 1313342, Strand: -
+
+Operon 951 (3 genes):
+  Start: 1313406, End: 1314716, Strand: -
+  Start: 1314713, End: 1315375, Strand: -
+  Start: 1315383, End: 1316441, Strand: -
+
+Operon 952 (1 genes):
+  Start: 1316499, End: 1316915, Strand: -
+
+Operon 953 (1 genes):
+  Start: 1317052, End: 1317960, Strand: +
+
+Operon 954 (1 genes):
+  Start: 1317980, End: 1318960, Strand: -
+
+Operon 955 (1 genes):
+  Start: 1319025, End: 1319999, Strand: +
+
+Operon 956 (1 genes):
+  Start: 1320001, End: 1321353, Strand: -
+
+Operon 957 (2 genes):
+  Start: 1321352, End: 1321564, Strand: +
+  Start: 1321603, End: 1323051, Strand: +
+
+Operon 958 (1 genes):
+  Start: 1323053, End: 1323331, Strand: -
+
+Operon 959 (3 genes):
+  Start: 1323330, End: 1324298, Strand: +
+  Start: 1324332, End: 1325255, Strand: +
+  Start: 1325295, End: 1325654, Strand: +
+
+Operon 960 (1 genes):
+  Start: 1325656, End: 1326372, Strand: -
+
+Operon 961 (1 genes):
+  Start: 1326538, End: 1327446, Strand: +
+
+Operon 962 (1 genes):
+  Start: 1327456, End: 1329540, Strand: -
+
+Operon 963 (1 genes):
+  Start: 1329752, End: 1330657, Strand: -
+
+Operon 964 (1 genes):
+  Start: 1330778, End: 1332094, Strand: +
+
+Operon 965 (1 genes):
+  Start: 1332167, End: 1332484, Strand: +
+
+Operon 966 (1 genes):
+  Start: 1332857, End: 1333429, Strand: -
+
+Operon 967 (1 genes):
+  Start: 1333485, End: 1333676, Strand: -
+
+Operon 968 (2 genes):
+  Start: 1333815, End: 1334330, Strand: -
+  Start: 1334327, End: 1335148, Strand: -
+
+Operon 969 (1 genes):
+  Start: 1335461, End: 1336714, Strand: +
+
+Operon 970 (1 genes):
+  Start: 1336842, End: 1337075, Strand: +
+
+Operon 971 (1 genes):
+  Start: 1337141, End: 1337560, Strand: +
+
+Operon 972 (1 genes):
+  Start: 1337618, End: 1338166, Strand: +
+
+Operon 973 (1 genes):
+  Start: 1338204, End: 1339508, Strand: -
+
+Operon 974 (1 genes):
+  Start: 1339799, End: 1342927, Strand: +
+
+Operon 975 (1 genes):
+  Start: 1342998, End: 1344059, Strand: -
+
+Operon 976 (3 genes):
+  Start: 1344157, End: 1344570, Strand: +
+  Start: 1344598, End: 1345239, Strand: +
+  Start: 1345287, End: 1345697, Strand: +
+
+Operon 977 (2 genes):
+  Start: 1345750, End: 1345983, Strand: -
+  Start: 1345983, End: 1347026, Strand: -
+
+Operon 978 (2 genes):
+  Start: 1347117, End: 1347734, Strand: +
+  Start: 1347731, End: 1348438, Strand: +
+
+Operon 979 (1 genes):
+  Start: 1348491, End: 1348718, Strand: +
+
+Operon 980 (1 genes):
+  Start: 1348757, End: 1349077, Strand: -
+
+Operon 981 (2 genes):
+  Start: 1349130, End: 1350047, Strand: -
+  Start: 1350047, End: 1351708, Strand: -
+
+Operon 982 (2 genes):
+  Start: 1351798, End: 1352415, Strand: -
+  Start: 1352444, End: 1352584, Strand: -
+
+Operon 983 (1 genes):
+  Start: 1352827, End: 1353444, Strand: -
+
+Operon 984 (1 genes):
+  Start: 1353443, End: 1354081, Strand: +
+
+Operon 985 (1 genes):
+  Start: 1354112, End: 1356064, Strand: -
+
+Operon 986 (1 genes):
+  Start: 1356243, End: 1356452, Strand: +
+
+Operon 987 (2 genes):
+  Start: 1356582, End: 1357613, Strand: -
+  Start: 1357610, End: 1358623, Strand: -
+
+Operon 988 (1 genes):
+  Start: 1358783, End: 1358941, Strand: +
+
+Operon 989 (1 genes):
+  Start: 1358949, End: 1360250, Strand: -
+
+Operon 990 (3 genes):
+  Start: 1360326, End: 1360982, Strand: +
+  Start: 1361018, End: 1362301, Strand: +
+  Start: 1362289, End: 1363230, Strand: +
+
+Operon 991 (2 genes):
+  Start: 1363231, End: 1363962, Strand: -
+  Start: 1363962, End: 1364264, Strand: -
+
+Operon 992 (1 genes):
+  Start: 1364265, End: 1365500, Strand: +
+
+Operon 993 (1 genes):
+  Start: 1365510, End: 1366691, Strand: -
+
+Operon 994 (5 genes):
+  Start: 1367036, End: 1367812, Strand: -
+  Start: 1367861, End: 1368748, Strand: -
+  Start: 1368773, End: 1369606, Strand: -
+  Start: 1369650, End: 1370594, Strand: -
+  Start: 1370637, End: 1372538, Strand: -
+
+Operon 995 (1 genes):
+  Start: 1373051, End: 1374292, Strand: -
+
+Operon 996 (1 genes):
+  Start: 1374390, End: 1375028, Strand: +
+
+Operon 997 (1 genes):
+  Start: 1375087, End: 1376385, Strand: +
+
+Operon 998 (2 genes):
+  Start: 1376404, End: 1377303, Strand: -
+  Start: 1377344, End: 1377889, Strand: -
+
+Operon 999 (1 genes):
+  Start: 1378010, End: 1378210, Strand: +
+
+Operon 1000 (4 genes):
+  Start: 1378248, End: 1379138, Strand: -
+  Start: 1379187, End: 1380002, Strand: -
+  Start: 1380002, End: 1380895, Strand: -
+  Start: 1380897, End: 1382075, Strand: -
+
+Operon 1001 (1 genes):
+  Start: 1382218, End: 1383342, Strand: +
+
+Operon 1002 (1 genes):
+  Start: 1383349, End: 1384233, Strand: -
+
+Operon 1003 (1 genes):
+  Start: 1384332, End: 1385600, Strand: +
+
+Operon 1004 (1 genes):
+  Start: 1385685, End: 1386209, Strand: +
+
+Operon 1005 (1 genes):
+  Start: 1386216, End: 1387433, Strand: -
+
+Operon 1006 (2 genes):
+  Start: 1387529, End: 1387846, Strand: +
+  Start: 1387843, End: 1388991, Strand: +
+
+Operon 1007 (1 genes):
+  Start: 1389042, End: 1390562, Strand: +
+
+Operon 1008 (3 genes):
+  Start: 1390684, End: 1391808, Strand: +
+  Start: 1391811, End: 1393340, Strand: +
+  Start: 1393327, End: 1394133, Strand: +
+
+Operon 1009 (1 genes):
+  Start: 1394134, End: 1394925, Strand: -
+
+Operon 1010 (1 genes):
+  Start: 1395028, End: 1395366, Strand: +
+
+Operon 1011 (1 genes):
+  Start: 1395369, End: 1396895, Strand: -
+
+Operon 1012 (1 genes):
+  Start: 1397013, End: 1397267, Strand: -
+
+Operon 1013 (1 genes):
+  Start: 1397374, End: 1397820, Strand: -
+
+Operon 1014 (3 genes):
+  Start: 1398710, End: 1399948, Strand: +
+  Start: 1399992, End: 1400741, Strand: +
+  Start: 1400742, End: 1402349, Strand: +
+
+Operon 1015 (1 genes):
+  Start: 1402357, End: 1402704, Strand: -
+
+Operon 1016 (2 genes):
+  Start: 1402807, End: 1404606, Strand: +
+  Start: 1404628, End: 1405080, Strand: +
+
+Operon 1017 (1 genes):
+  Start: 1405118, End: 1405774, Strand: -
+
+Operon 1018 (2 genes):
+  Start: 1406440, End: 1407288, Strand: +
+  Start: 1407337, End: 1408272, Strand: +
+
+Operon 1019 (1 genes):
+  Start: 1408320, End: 1408535, Strand: -
+
+Operon 1020 (1 genes):
+  Start: 1409286, End: 1410086, Strand: -
+
+Operon 1021 (1 genes):
+  Start: 1410174, End: 1410275, Strand: -
+
+Operon 1022 (1 genes):
+  Start: 1410377, End: 1412059, Strand: -
+
+Operon 1023 (1 genes):
+  Start: 1412058, End: 1412615, Strand: +
+
+Operon 1024 (1 genes):
+  Start: 1412832, End: 1413275, Strand: +
+
+Operon 1025 (1 genes):
+  Start: 1413751, End: 1414017, Strand: +
+
+Operon 1026 (1 genes):
+  Start: 1414027, End: 1415064, Strand: -
+
+Operon 1027 (3 genes):
+  Start: 1415175, End: 1416233, Strand: +
+  Start: 1416274, End: 1416843, Strand: +
+  Start: 1416890, End: 1417231, Strand: +
+
+Operon 1028 (1 genes):
+  Start: 1417462, End: 1417815, Strand: +
+
+Operon 1029 (1 genes):
+  Start: 1417818, End: 1418579, Strand: -
+
+Operon 1030 (2 genes):
+  Start: 1418630, End: 1418989, Strand: -
+  Start: 1418986, End: 1419372, Strand: -
+
+Operon 1031 (1 genes):
+  Start: 1419466, End: 1419942, Strand: +
+
+Operon 1032 (2 genes):
+  Start: 1419958, End: 1420185, Strand: -
+  Start: 1420186, End: 1420965, Strand: -
+
+Operon 1033 (1 genes):
+  Start: 1421025, End: 1421192, Strand: +
+
+Operon 1034 (1 genes):
+  Start: 1421211, End: 1422179, Strand: -
+
+Operon 1035 (1 genes):
+  Start: 1422323, End: 1422649, Strand: +
+
+Operon 1036 (1 genes):
+  Start: 1422660, End: 1423259, Strand: -
+
+Operon 1037 (1 genes):
+  Start: 1423334, End: 1424245, Strand: +
+
+Operon 1038 (3 genes):
+  Start: 1424535, End: 1425587, Strand: +
+  Start: 1425565, End: 1426359, Strand: +
+  Start: 1426359, End: 1426988, Strand: +
+
+Operon 1039 (1 genes):
+  Start: 1427126, End: 1428148, Strand: +
+
+Operon 1040 (1 genes):
+  Start: 1428155, End: 1429516, Strand: -
+
+Operon 1041 (1 genes):
+  Start: 1429637, End: 1430680, Strand: +
+
+Operon 1042 (1 genes):
+  Start: 1430826, End: 1431071, Strand: +
+
+Operon 1043 (1 genes):
+  Start: 1431151, End: 1432230, Strand: +
+
+Operon 1044 (2 genes):
+  Start: 1432237, End: 1432575, Strand: -
+  Start: 1432621, End: 1432788, Strand: -
+
+Operon 1045 (2 genes):
+  Start: 1432842, End: 1433516, Strand: -
+  Start: 1433513, End: 1433767, Strand: -
+
+Operon 1046 (1 genes):
+  Start: 1433893, End: 1434804, Strand: +
+
+Operon 1047 (1 genes):
+  Start: 1434889, End: 1435803, Strand: +
+
+Operon 1048 (1 genes):
+  Start: 1435809, End: 1436222, Strand: -
+
+Operon 1049 (1 genes):
+  Start: 1436310, End: 1438067, Strand: -
+
+Operon 1050 (2 genes):
+  Start: 1438138, End: 1438911, Strand: -
+  Start: 1438929, End: 1443020, Strand: -
+
+Operon 1051 (1 genes):
+  Start: 1443227, End: 1443508, Strand: -
+
+Operon 1052 (1 genes):
+  Start: 1443507, End: 1444004, Strand: +
+
+Operon 1053 (1 genes):
+  Start: 1444126, End: 1445883, Strand: -
+
+Operon 1054 (3 genes):
+  Start: 1445947, End: 1447422, Strand: -
+  Start: 1447469, End: 1447639, Strand: -
+  Start: 1447671, End: 1448213, Strand: -
+
+Operon 1055 (1 genes):
+  Start: 1448212, End: 1448781, Strand: +
+
+Operon 1056 (1 genes):
+  Start: 1448260, End: 1448799, Strand: -
+
+Operon 1057 (1 genes):
+  Start: 1448861, End: 1450033, Strand: -
+
+Operon 1058 (2 genes):
+  Start: 1450110, End: 1451159, Strand: -
+  Start: 1451162, End: 1452694, Strand: -
+
+Operon 1059 (3 genes):
+  Start: 1452915, End: 1454627, Strand: +
+  Start: 1454617, End: 1455900, Strand: +
+  Start: 1455893, End: 1457290, Strand: +
+
+Operon 1060 (1 genes):
+  Start: 1457335, End: 1457967, Strand: -
+
+Operon 1061 (1 genes):
+  Start: 1458039, End: 1458560, Strand: +
+
+Operon 1062 (1 genes):
+  Start: 1458716, End: 1458949, Strand: +
+
+Operon 1063 (2 genes):
+  Start: 1459030, End: 1459941, Strand: +
+  Start: 1459955, End: 1460374, Strand: +
+
+Operon 1064 (2 genes):
+  Start: 1461293, End: 1461883, Strand: -
+  Start: 1461880, End: 1463364, Strand: -
+
+Operon 1065 (2 genes):
+  Start: 1463506, End: 1464783, Strand: +
+  Start: 1464785, End: 1465423, Strand: +
+
+Operon 1066 (1 genes):
+  Start: 1465420, End: 1467030, Strand: -
+
+Operon 1067 (1 genes):
+  Start: 1467161, End: 1467913, Strand: +
+
+Operon 1068 (2 genes):
+  Start: 1467921, End: 1469450, Strand: -
+  Start: 1469447, End: 1470301, Strand: -
+
+Operon 1069 (2 genes):
+  Start: 1470434, End: 1470907, Strand: -
+  Start: 1470955, End: 1471497, Strand: -
+
+Operon 1070 (2 genes):
+  Start: 1471603, End: 1472883, Strand: +
+  Start: 1472892, End: 1473941, Strand: +
+
+Operon 1071 (1 genes):
+  Start: 1473943, End: 1474272, Strand: -
+
+Operon 1072 (1 genes):
+  Start: 1474404, End: 1474643, Strand: -
+
+Operon 1073 (1 genes):
+  Start: 1474858, End: 1476660, Strand: +
+
+Operon 1074 (1 genes):
+  Start: 1476737, End: 1477102, Strand: -
+
+Operon 1075 (2 genes):
+  Start: 1477154, End: 1477636, Strand: -
+  Start: 1477669, End: 1478904, Strand: -
+
+Operon 1076 (1 genes):
+  Start: 1479000, End: 1480898, Strand: -
+
+Operon 1077 (1 genes):
+  Start: 1480897, End: 1482222, Strand: +
+
+Operon 1078 (2 genes):
+  Start: 1482219, End: 1483019, Strand: -
+  Start: 1483024, End: 1484322, Strand: -
+
+Operon 1079 (2 genes):
+  Start: 1484374, End: 1484964, Strand: -
+  Start: 1484968, End: 1485321, Strand: -
+
+Operon 1080 (1 genes):
+  Start: 1485424, End: 1485879, Strand: -
+
+Operon 1081 (1 genes):
+  Start: 1486031, End: 1486897, Strand: +
+
+Operon 1082 (1 genes):
+  Start: 1486894, End: 1488006, Strand: -
+
+Operon 1083 (1 genes):
+  Start: 1488090, End: 1488341, Strand: -
+
+Operon 1084 (2 genes):
+  Start: 1488724, End: 1489449, Strand: +
+  Start: 1489454, End: 1491100, Strand: +
+
+Operon 1085 (1 genes):
+  Start: 1491180, End: 1492982, Strand: +
+
+Operon 1086 (1 genes):
+  Start: 1492979, End: 1493509, Strand: -
+
+Operon 1087 (1 genes):
+  Start: 1493620, End: 1495098, Strand: +
+
+Operon 1088 (1 genes):
+  Start: 1495368, End: 1496426, Strand: -
+
+Operon 1089 (1 genes):
+  Start: 1496425, End: 1496691, Strand: +
+
+Operon 1090 (2 genes):
+  Start: 1496766, End: 1497680, Strand: +
+  Start: 1497707, End: 1497952, Strand: +
+
+Operon 1091 (1 genes):
+  Start: 1498297, End: 1498662, Strand: +
+
+Operon 1092 (1 genes):
+  Start: 1498703, End: 1499095, Strand: -
+
+Operon 1093 (1 genes):
+  Start: 1499405, End: 1500211, Strand: +
+
+Operon 1094 (2 genes):
+  Start: 1500208, End: 1500882, Strand: -
+  Start: 1500795, End: 1501619, Strand: -
+
+Operon 1095 (1 genes):
+  Start: 1501863, End: 1502099, Strand: +
+
+Operon 1096 (2 genes):
+  Start: 1502096, End: 1502665, Strand: -
+  Start: 1502692, End: 1504212, Strand: -
+
+Operon 1097 (1 genes):
+  Start: 1504536, End: 1505333, Strand: +
+
+Operon 1098 (1 genes):
+  Start: 1505291, End: 1505692, Strand: -
+
+Operon 1099 (1 genes):
+  Start: 1505691, End: 1505888, Strand: +
+
+Operon 1100 (5 genes):
+  Start: 1505903, End: 1506457, Strand: -
+  Start: 1506498, End: 1506779, Strand: -
+  Start: 1506828, End: 1508426, Strand: -
+  Start: 1508435, End: 1508569, Strand: -
+  Start: 1508571, End: 1508879, Strand: -
+
+Operon 1101 (1 genes):
+  Start: 1508935, End: 1509033, Strand: -
+
+Operon 1102 (4 genes):
+  Start: 1509474, End: 1509671, Strand: -
+  Start: 1509672, End: 1510244, Strand: -
+  Start: 1510248, End: 1510631, Strand: -
+  Start: 1510636, End: 1511880, Strand: -
+
+Operon 1103 (1 genes):
+  Start: 1512177, End: 1512983, Strand: +
+
+Operon 1104 (2 genes):
+  Start: 1512989, End: 1513810, Strand: -
+  Start: 1513807, End: 1514916, Strand: -
+
+Operon 1105 (1 genes):
+  Start: 1515193, End: 1516908, Strand: -
+
+Operon 1106 (1 genes):
+  Start: 1516948, End: 1518180, Strand: +
+
+Operon 1107 (2 genes):
+  Start: 1518251, End: 1519024, Strand: +
+  Start: 1519017, End: 1519487, Strand: +
+
+Operon 1108 (3 genes):
+  Start: 1519498, End: 1521411, Strand: -
+  Start: 1521456, End: 1523408, Strand: -
+  Start: 1523420, End: 1524328, Strand: -
+
+Operon 1109 (1 genes):
+  Start: 1524446, End: 1525828, Strand: +
+
+Operon 1110 (1 genes):
+  Start: 1525893, End: 1526222, Strand: -
+
+Operon 1111 (2 genes):
+  Start: 1526221, End: 1526802, Strand: +
+  Start: 1526849, End: 1526992, Strand: +
+
+Operon 1112 (1 genes):
+  Start: 1527060, End: 1527386, Strand: -
+
+Operon 1113 (1 genes):
+  Start: 1527488, End: 1528024, Strand: -
+
+Operon 1114 (1 genes):
+  Start: 1528082, End: 1528699, Strand: -
+
+Operon 1115 (3 genes):
+  Start: 1528776, End: 1528961, Strand: +
+  Start: 1528958, End: 1529506, Strand: +
+  Start: 1529534, End: 1530145, Strand: +
+
+Operon 1116 (2 genes):
+  Start: 1530149, End: 1531144, Strand: -
+  Start: 1531141, End: 1531983, Strand: -
+
+Operon 1117 (1 genes):
+  Start: 1532071, End: 1533033, Strand: -
+
+Operon 1118 (1 genes):
+  Start: 1533185, End: 1533841, Strand: +
+
+Operon 1119 (2 genes):
+  Start: 1534374, End: 1535489, Strand: +
+  Start: 1535505, End: 1535945, Strand: +
+
+Operon 1120 (1 genes):
+  Start: 1536131, End: 1536769, Strand: +
+
+Operon 1121 (1 genes):
+  Start: 1536751, End: 1538115, Strand: -
+
+Operon 1122 (1 genes):
+  Start: 1538241, End: 1538705, Strand: +
+
+Operon 1123 (1 genes):
+  Start: 1538840, End: 1540810, Strand: -
+
+Operon 1124 (1 genes):
+  Start: 1540767, End: 1541972, Strand: +
+
+Operon 1125 (2 genes):
+  Start: 1542149, End: 1542343, Strand: -
+  Start: 1542347, End: 1542730, Strand: -
+
+Operon 1126 (1 genes):
+  Start: 1542781, End: 1544013, Strand: -
+
+Operon 1127 (1 genes):
+  Start: 1544296, End: 1544730, Strand: +
+
+Operon 1128 (1 genes):
+  Start: 1544781, End: 1545911, Strand: -
+
+Operon 1129 (1 genes):
+  Start: 1546022, End: 1547278, Strand: +
+
+Operon 1130 (1 genes):
+  Start: 1547275, End: 1547544, Strand: -
+
+Operon 1131 (2 genes):
+  Start: 1547630, End: 1548586, Strand: +
+  Start: 1548632, End: 1549723, Strand: +
+
+Operon 1132 (1 genes):
+  Start: 1549720, End: 1549941, Strand: -
+
+Operon 1133 (1 genes):
+  Start: 1550019, End: 1551281, Strand: -
+
+Operon 1134 (1 genes):
+  Start: 1551547, End: 1552377, Strand: +
+
+Operon 1135 (1 genes):
+  Start: 1552374, End: 1553198, Strand: -
+
+Operon 1136 (1 genes):
+  Start: 1553564, End: 1553809, Strand: -
+
+Operon 1137 (1 genes):
+  Start: 1553875, End: 1555311, Strand: -
+
+Operon 1138 (1 genes):
+  Start: 1555430, End: 1556149, Strand: -
+
+Operon 1139 (1 genes):
+  Start: 1556228, End: 1556755, Strand: -
+
+Operon 1140 (1 genes):
+  Start: 1556811, End: 1557455, Strand: -
+
+Operon 1141 (1 genes):
+  Start: 1557442, End: 1558281, Strand: +
+
+Operon 1142 (1 genes):
+  Start: 1558353, End: 1558970, Strand: +
+
+Operon 1143 (1 genes):
+  Start: 1559008, End: 1559934, Strand: -
+
+Operon 1144 (1 genes):
+  Start: 1560066, End: 1561541, Strand: +
+
+Operon 1145 (1 genes):
+  Start: 1561543, End: 1563291, Strand: -
+
+Operon 1146 (3 genes):
+  Start: 1563368, End: 1564036, Strand: -
+  Start: 1564023, End: 1564751, Strand: -
+  Start: 1564788, End: 1565765, Strand: -
+
+Operon 1147 (2 genes):
+  Start: 1565967, End: 1566074, Strand: -
+  Start: 1566101, End: 1567018, Strand: -
+
+Operon 1148 (1 genes):
+  Start: 1567067, End: 1568383, Strand: +
+
+Operon 1149 (1 genes):
+  Start: 1568401, End: 1569063, Strand: -
+
+Operon 1150 (2 genes):
+  Start: 1569140, End: 1569532, Strand: -
+  Start: 1569547, End: 1570221, Strand: -
+
+Operon 1151 (1 genes):
+  Start: 1570278, End: 1571132, Strand: -
+
+Operon 1152 (1 genes):
+  Start: 1571291, End: 1571779, Strand: -
+
+Operon 1153 (6 genes):
+  Start: 1572295, End: 1573710, Strand: -
+  Start: 1573716, End: 1575473, Strand: -
+  Start: 1575479, End: 1575841, Strand: -
+  Start: 1575838, End: 1576896, Strand: -
+  Start: 1576893, End: 1577480, Strand: -
+  Start: 1577503, End: 1577718, Strand: -
+
+Operon 1154 (2 genes):
+  Start: 1577784, End: 1579952, Strand: -
+  Start: 1579939, End: 1580271, Strand: -
+
+Operon 1155 (1 genes):
+  Start: 1580346, End: 1581002, Strand: +
+
+Operon 1156 (1 genes):
+  Start: 1581505, End: 1582740, Strand: -
+
+Operon 1157 (1 genes):
+  Start: 1582844, End: 1584007, Strand: +
+
+Operon 1158 (2 genes):
+  Start: 1584077, End: 1584877, Strand: +
+  Start: 1584874, End: 1585842, Strand: +
+
+Operon 1159 (1 genes):
+  Start: 1585866, End: 1586516, Strand: -
+
+Operon 1160 (1 genes):
+  Start: 1586648, End: 1587550, Strand: +
+
+Operon 1161 (1 genes):
+  Start: 1587552, End: 1588637, Strand: -
+
+Operon 1162 (1 genes):
+  Start: 1588750, End: 1589757, Strand: +
+
+Operon 1163 (1 genes):
+  Start: 1589811, End: 1591382, Strand: -
+
+Operon 1164 (2 genes):
+  Start: 1591620, End: 1592105, Strand: +
+  Start: 1592154, End: 1592939, Strand: +
+
+Operon 1165 (1 genes):
+  Start: 1592950, End: 1593945, Strand: -
+
+Operon 1166 (3 genes):
+  Start: 1593632, End: 1595053, Strand: +
+  Start: 1595055, End: 1595627, Strand: +
+  Start: 1595672, End: 1596076, Strand: +
+
+Operon 1167 (1 genes):
+  Start: 1596089, End: 1596262, Strand: -
+
+Operon 1168 (1 genes):
+  Start: 1596897, End: 1597652, Strand: +
+
+Operon 1169 (2 genes):
+  Start: 1597649, End: 1598716, Strand: -
+  Start: 1598752, End: 1601007, Strand: -
+
+Operon 1170 (1 genes):
+  Start: 1601058, End: 1602230, Strand: -
+
+Operon 1171 (1 genes):
+  Start: 1602287, End: 1603492, Strand: -
+
+Operon 1172 (1 genes):
+  Start: 1603520, End: 1603987, Strand: +
+
+Operon 1173 (1 genes):
+  Start: 1603994, End: 1605088, Strand: -
+
+Operon 1174 (1 genes):
+  Start: 1605490, End: 1607268, Strand: +
+
+Operon 1175 (1 genes):
+  Start: 1607756, End: 1607902, Strand: -
+
+Operon 1176 (1 genes):
+  Start: 1608193, End: 1609467, Strand: +
+
+Operon 1177 (2 genes):
+  Start: 1609442, End: 1609963, Strand: -
+  Start: 1609956, End: 1610333, Strand: -
+
+Operon 1178 (1 genes):
+  Start: 1610790, End: 1611068, Strand: -
+
+Operon 1179 (1 genes):
+  Start: 1611475, End: 1611984, Strand: +
+
+Operon 1180 (1 genes):
+  Start: 1611981, End: 1613150, Strand: -
+
+Operon 1181 (1 genes):
+  Start: 1613953, End: 1616448, Strand: +
+
+Operon 1182 (2 genes):
+  Start: 1616518, End: 1616856, Strand: +
+  Start: 1616853, End: 1617650, Strand: +
+
+Operon 1183 (1 genes):
+  Start: 1617647, End: 1618510, Strand: -
+
+Operon 1184 (1 genes):
+  Start: 1618682, End: 1619212, Strand: +
+
+Operon 1185 (2 genes):
+  Start: 1619975, End: 1620403, Strand: -
+  Start: 1620447, End: 1620665, Strand: -
+
+Operon 1186 (1 genes):
+  Start: 1620746, End: 1620976, Strand: +
+
+Operon 1187 (1 genes):
+  Start: 1621029, End: 1624241, Strand: +
+
+Operon 1188 (3 genes):
+  Start: 1624252, End: 1624827, Strand: -
+  Start: 1624849, End: 1626546, Strand: -
+  Start: 1626543, End: 1626980, Strand: -
+
+Operon 1189 (1 genes):
+  Start: 1627091, End: 1627957, Strand: -
+
+Operon 1190 (1 genes):
+  Start: 1628164, End: 1628355, Strand: +
+
+Operon 1191 (2 genes):
+  Start: 1628491, End: 1629180, Strand: +
+  Start: 1629182, End: 1631587, Strand: +
+
+Operon 1192 (1 genes):
+  Start: 1631923, End: 1632243, Strand: +
+
+Operon 1193 (1 genes):
+  Start: 1632254, End: 1633099, Strand: -
+
+Operon 1194 (1 genes):
+  Start: 1633922, End: 1634779, Strand: -
+
+Operon 1195 (2 genes):
+  Start: 1634861, End: 1635313, Strand: +
+  Start: 1635310, End: 1636677, Strand: +
+
+Operon 1196 (1 genes):
+  Start: 1636674, End: 1637807, Strand: -
+
+Operon 1197 (5 genes):
+  Start: 1637859, End: 1639400, Strand: -
+  Start: 1639397, End: 1640428, Strand: -
+  Start: 1640451, End: 1641179, Strand: -
+  Start: 1641218, End: 1643557, Strand: -
+  Start: 1643594, End: 1645003, Strand: -
+
+Operon 1198 (1 genes):
+  Start: 1645123, End: 1646058, Strand: +
+
+Operon 1199 (1 genes):
+  Start: 1646140, End: 1647399, Strand: +
+
+Operon 1200 (4 genes):
+  Start: 1647485, End: 1648378, Strand: +
+  Start: 1648380, End: 1649816, Strand: +
+  Start: 1649819, End: 1651243, Strand: +
+  Start: 1651293, End: 1652105, Strand: +
+
+Operon 1201 (1 genes):
+  Start: 1652109, End: 1654766, Strand: -
+
+Operon 1202 (1 genes):
+  Start: 1654897, End: 1655772, Strand: -
+
+Operon 1203 (1 genes):
+  Start: 1656061, End: 1657806, Strand: -
+
+Operon 1204 (3 genes):
+  Start: 1657929, End: 1658480, Strand: -
+  Start: 1658526, End: 1659356, Strand: -
+  Start: 1659394, End: 1660737, Strand: -
+
+Operon 1205 (1 genes):
+  Start: 1660818, End: 1661960, Strand: -
+
+Operon 1206 (1 genes):
+  Start: 1662177, End: 1662872, Strand: -
+
+Operon 1207 (1 genes):
+  Start: 1663129, End: 1663416, Strand: -
+
+Operon 1208 (1 genes):
+  Start: 1663560, End: 1663694, Strand: +
+
+Operon 1209 (1 genes):
+  Start: 1663836, End: 1664819, Strand: -
+
+Operon 1210 (2 genes):
+  Start: 1664886, End: 1666880, Strand: -
+  Start: 1666899, End: 1667825, Strand: -
+
+Operon 1211 (2 genes):
+  Start: 1667940, End: 1668944, Strand: +
+  Start: 1668976, End: 1669326, Strand: +
+
+Operon 1212 (1 genes):
+  Start: 1669327, End: 1669812, Strand: -
+
+Operon 1213 (3 genes):
+  Start: 1670410, End: 1670970, Strand: +
+  Start: 1670977, End: 1671342, Strand: +
+  Start: 1671383, End: 1671772, Strand: +
+
+Operon 1214 (1 genes):
+  Start: 1671775, End: 1672623, Strand: -
+
+Operon 1215 (2 genes):
+  Start: 1672712, End: 1673287, Strand: +
+  Start: 1673284, End: 1674579, Strand: +
+
+Operon 1216 (1 genes):
+  Start: 1674660, End: 1675943, Strand: +
+
+Operon 1217 (1 genes):
+  Start: 1676048, End: 1676473, Strand: +
+
+Operon 1218 (1 genes):
+  Start: 1676537, End: 1676740, Strand: +
+
+Operon 1219 (1 genes):
+  Start: 1676737, End: 1677819, Strand: -
+
+Operon 1220 (1 genes):
+  Start: 1677818, End: 1678495, Strand: +
+
+Operon 1221 (1 genes):
+  Start: 1678565, End: 1679308, Strand: -
+
+Operon 1222 (1 genes):
+  Start: 1679387, End: 1680421, Strand: -
+
+Operon 1223 (1 genes):
+  Start: 1680625, End: 1682103, Strand: +
+
+Operon 1224 (1 genes):
+  Start: 1682108, End: 1682893, Strand: -
+
+Operon 1225 (1 genes):
+  Start: 1682974, End: 1683393, Strand: +
+
+Operon 1226 (1 genes):
+  Start: 1684061, End: 1684840, Strand: +
+
+Operon 1227 (2 genes):
+  Start: 1684849, End: 1685562, Strand: -
+  Start: 1685552, End: 1685743, Strand: -
+
+Operon 1228 (1 genes):
+  Start: 1685806, End: 1687980, Strand: -
+
+Operon 1229 (2 genes):
+  Start: 1688071, End: 1689105, Strand: +
+  Start: 1689152, End: 1691161, Strand: +
+
+Operon 1230 (2 genes):
+  Start: 1691265, End: 1692389, Strand: +
+  Start: 1692434, End: 1693111, Strand: +
+
+Operon 1231 (1 genes):
+  Start: 1693173, End: 1693340, Strand: -
+
+Operon 1232 (1 genes):
+  Start: 1693780, End: 1694013, Strand: +
+
+Operon 1233 (1 genes):
+  Start: 1694075, End: 1695448, Strand: +
+
+Operon 1234 (1 genes):
+  Start: 1695463, End: 1695795, Strand: -
+
+Operon 1235 (1 genes):
+  Start: 1695860, End: 1696384, Strand: -
+
+Operon 1236 (1 genes):
+  Start: 1696383, End: 1697351, Strand: +
+
+Operon 1237 (1 genes):
+  Start: 1697360, End: 1698343, Strand: -
+
+Operon 1238 (1 genes):
+  Start: 1698333, End: 1699142, Strand: +
+
+Operon 1239 (1 genes):
+  Start: 1699204, End: 1701993, Strand: +
+
+Operon 1240 (2 genes):
+  Start: 1702009, End: 1702398, Strand: -
+  Start: 1702444, End: 1703100, Strand: -
+
+Operon 1241 (3 genes):
+  Start: 1703613, End: 1704062, Strand: +
+  Start: 1704069, End: 1705499, Strand: +
+  Start: 1705499, End: 1706755, Strand: +
+
+Operon 1242 (2 genes):
+  Start: 1706814, End: 1707440, Strand: +
+  Start: 1707437, End: 1708912, Strand: +
+
+Operon 1243 (1 genes):
+  Start: 1708941, End: 1710236, Strand: -
+
+Operon 1244 (1 genes):
+  Start: 1710444, End: 1710833, Strand: -
+
+Operon 1245 (1 genes):
+  Start: 1710976, End: 1711704, Strand: +
+
+Operon 1246 (1 genes):
+  Start: 1711756, End: 1712346, Strand: +
+
+Operon 1247 (1 genes):
+  Start: 1712375, End: 1712872, Strand: -
+
+Operon 1248 (1 genes):
+  Start: 1713014, End: 1713502, Strand: +
+
+Operon 1249 (1 genes):
+  Start: 1713499, End: 1714152, Strand: -
+
+Operon 1250 (1 genes):
+  Start: 1713943, End: 1714563, Strand: +
+
+Operon 1251 (2 genes):
+  Start: 1714614, End: 1714823, Strand: +
+  Start: 1714837, End: 1715721, Strand: +
+
+Operon 1252 (1 genes):
+  Start: 1715785, End: 1717809, Strand: +
+
+Operon 1253 (2 genes):
+  Start: 1717821, End: 1718060, Strand: -
+  Start: 1718107, End: 1718790, Strand: -
+
+Operon 1254 (1 genes):
+  Start: 1718884, End: 1719567, Strand: +
+
+Operon 1255 (1 genes):
+  Start: 1719630, End: 1720811, Strand: +
+
+Operon 1256 (1 genes):
+  Start: 1720826, End: 1722199, Strand: -
+
+Operon 1257 (2 genes):
+  Start: 1722306, End: 1722596, Strand: +
+  Start: 1722596, End: 1723111, Strand: +
+
+Operon 1258 (1 genes):
+  Start: 1723198, End: 1723794, Strand: +
+
+Operon 1259 (1 genes):
+  Start: 1724502, End: 1725077, Strand: -
+
+Operon 1260 (1 genes):
+  Start: 1725128, End: 1725775, Strand: -
+
+Operon 1261 (1 genes):
+  Start: 1725842, End: 1726606, Strand: -
+
+Operon 1262 (2 genes):
+  Start: 1726551, End: 1727159, Strand: +
+  Start: 1727159, End: 1727857, Strand: +
+
+Operon 1263 (1 genes):
+  Start: 1728729, End: 1730762, Strand: +
+
+Operon 1264 (1 genes):
+  Start: 1730838, End: 1731404, Strand: -
+
+Operon 1265 (2 genes):
+  Start: 1731824, End: 1732804, Strand: +
+  Start: 1732811, End: 1733473, Strand: +
+
+Operon 1266 (4 genes):
+  Start: 1733850, End: 1734221, Strand: +
+  Start: 1734261, End: 1735598, Strand: +
+  Start: 1735647, End: 1736165, Strand: +
+  Start: 1736162, End: 1736689, Strand: +
+
+Operon 1267 (4 genes):
+  Start: 1736746, End: 1737936, Strand: +
+  Start: 1737938, End: 1738678, Strand: +
+  Start: 1738675, End: 1739391, Strand: +
+  Start: 1739430, End: 1740857, Strand: +
+
+Operon 1268 (1 genes):
+  Start: 1740866, End: 1744771, Strand: -
+
+Operon 1269 (2 genes):
+  Start: 1744977, End: 1745762, Strand: +
+  Start: 1745788, End: 1746138, Strand: +
+
+Operon 1270 (2 genes):
+  Start: 1746166, End: 1750278, Strand: -
+  Start: 1750278, End: 1750697, Strand: -
+
+Operon 1271 (1 genes):
+  Start: 1750823, End: 1751614, Strand: +
+
+Operon 1272 (6 genes):
+  Start: 1751629, End: 1751850, Strand: -
+  Start: 1751873, End: 1752277, Strand: -
+  Start: 1752286, End: 1753623, Strand: -
+  Start: 1753620, End: 1754711, Strand: -
+  Start: 1754712, End: 1756292, Strand: -
+  Start: 1756297, End: 1757388, Strand: -
+
+Operon 1273 (1 genes):
+  Start: 1757520, End: 1759496, Strand: -
+
+Operon 1274 (2 genes):
+  Start: 1759702, End: 1760559, Strand: +
+  Start: 1760552, End: 1762282, Strand: +
+
+Operon 1275 (2 genes):
+  Start: 1762507, End: 1762836, Strand: +
+  Start: 1762885, End: 1765239, Strand: +
+
+Operon 1276 (5 genes):
+  Start: 1765447, End: 1767408, Strand: +
+  Start: 1767435, End: 1768415, Strand: +
+  Start: 1768417, End: 1769577, Strand: +
+  Start: 1769595, End: 1770602, Strand: +
+  Start: 1770599, End: 1771921, Strand: +
+
+Operon 1277 (1 genes):
+  Start: 1771918, End: 1772466, Strand: -
+
+Operon 1278 (1 genes):
+  Start: 1772642, End: 1773556, Strand: +
+
+Operon 1279 (1 genes):
+  Start: 1773582, End: 1773830, Strand: -
+
+Operon 1280 (2 genes):
+  Start: 1773915, End: 1776266, Strand: +
+  Start: 1776263, End: 1776760, Strand: +
+
+Operon 1281 (2 genes):
+  Start: 1777089, End: 1777673, Strand: +
+  Start: 1777719, End: 1778402, Strand: +
+
+Operon 1282 (2 genes):
+  Start: 1778408, End: 1779871, Strand: -
+  Start: 1779843, End: 1781027, Strand: -
+
+Operon 1283 (1 genes):
+  Start: 1781166, End: 1781561, Strand: +
+
+Operon 1284 (2 genes):
+  Start: 1781563, End: 1782360, Strand: -
+  Start: 1782357, End: 1783271, Strand: -
+
+Operon 1285 (1 genes):
+  Start: 1783339, End: 1783593, Strand: -
+
+Operon 1286 (1 genes):
+  Start: 1783654, End: 1784313, Strand: -
+
+Operon 1287 (1 genes):
+  Start: 1784408, End: 1786180, Strand: +
+
+Operon 1288 (2 genes):
+  Start: 1786190, End: 1787185, Strand: -
+  Start: 1787185, End: 1789599, Strand: -
+
+Operon 1289 (1 genes):
+  Start: 1789808, End: 1789984, Strand: +
+
+Operon 1290 (1 genes):
+  Start: 1789985, End: 1790326, Strand: -
+
+Operon 1291 (1 genes):
+  Start: 1790325, End: 1791011, Strand: +
+
+Operon 1292 (2 genes):
+  Start: 1791684, End: 1793753, Strand: -
+  Start: 1793801, End: 1794433, Strand: -
+
+Operon 1293 (1 genes):
+  Start: 1794527, End: 1795408, Strand: -
+
+Operon 1294 (1 genes):
+  Start: 1795504, End: 1796277, Strand: +
+
+Operon 1295 (3 genes):
+  Start: 1796340, End: 1797398, Strand: +
+  Start: 1797395, End: 1799215, Strand: +
+  Start: 1799212, End: 1800243, Strand: +
+
+Operon 1296 (1 genes):
+  Start: 1800247, End: 1800969, Strand: -
+
+Operon 1297 (2 genes):
+  Start: 1800999, End: 1801430, Strand: +
+  Start: 1801477, End: 1802088, Strand: +
+
+Operon 1298 (3 genes):
+  Start: 1802096, End: 1802881, Strand: -
+  Start: 1802881, End: 1802985, Strand: -
+  Start: 1803013, End: 1804554, Strand: -
+
+Operon 1299 (2 genes):
+  Start: 1804702, End: 1805370, Strand: -
+  Start: 1805370, End: 1805693, Strand: -
+
+Operon 1300 (1 genes):
+  Start: 1805775, End: 1806443, Strand: -
+
+Operon 1301 (1 genes):
+  Start: 1807230, End: 1808786, Strand: +
+
+Operon 1302 (2 genes):
+  Start: 1808793, End: 1809071, Strand: -
+  Start: 1809086, End: 1809604, Strand: -
+
+Operon 1303 (2 genes):
+  Start: 1809646, End: 1810137, Strand: +
+  Start: 1810134, End: 1810406, Strand: +
+
+Operon 1304 (1 genes):
+  Start: 1810411, End: 1811130, Strand: -
+
+Operon 1305 (1 genes):
+  Start: 1811590, End: 1812768, Strand: +
+
+Operon 1306 (1 genes):
+  Start: 1812830, End: 1814005, Strand: +
+
+Operon 1307 (1 genes):
+  Start: 1814015, End: 1815178, Strand: -
+
+Operon 1308 (1 genes):
+  Start: 1815268, End: 1816473, Strand: +
+
+Operon 1309 (1 genes):
+  Start: 1816543, End: 1817838, Strand: +
+
+Operon 1310 (1 genes):
+  Start: 1817907, End: 1820945, Strand: +
+
+Operon 1311 (1 genes):
+  Start: 1820955, End: 1821662, Strand: -
+
+Operon 1312 (1 genes):
+  Start: 1821747, End: 1823330, Strand: +
+
+Operon 1313 (1 genes):
+  Start: 1823392, End: 1823835, Strand: +
+
+Operon 1314 (1 genes):
+  Start: 1824017, End: 1825078, Strand: +
+
+Operon 1315 (1 genes):
+  Start: 1825082, End: 1826329, Strand: -
+
+Operon 1316 (1 genes):
+  Start: 1826400, End: 1826666, Strand: -
+
+Operon 1317 (1 genes):
+  Start: 1826736, End: 1827050, Strand: -
+
+Operon 1318 (3 genes):
+  Start: 1827120, End: 1827608, Strand: -
+  Start: 1827624, End: 1829081, Strand: -
+  Start: 1829078, End: 1830268, Strand: -
+
+Operon 1319 (1 genes):
+  Start: 1830494, End: 1830991, Strand: -
+
+Operon 1320 (1 genes):
+  Start: 1831119, End: 1831307, Strand: +
+
+Operon 1321 (1 genes):
+  Start: 1831314, End: 1833512, Strand: -
+
+Operon 1322 (1 genes):
+  Start: 1833667, End: 1833810, Strand: +
+
+Operon 1323 (1 genes):
+  Start: 1833843, End: 1834391, Strand: -
+
+Operon 1324 (1 genes):
+  Start: 1834499, End: 1835107, Strand: +
+
+Operon 1325 (1 genes):
+  Start: 1835158, End: 1835790, Strand: -
+
+Operon 1326 (1 genes):
+  Start: 1835869, End: 1836027, Strand: +
+
+Operon 1327 (1 genes):
+  Start: 1836024, End: 1837097, Strand: -
+
+Operon 1328 (1 genes):
+  Start: 1837127, End: 1838236, Strand: +
+
+Operon 1329 (1 genes):
+  Start: 1838406, End: 1838513, Strand: +
+
+Operon 1330 (2 genes):
+  Start: 1838756, End: 1839328, Strand: +
+  Start: 1839321, End: 1839737, Strand: +
+
+Operon 1331 (1 genes):
+  Start: 1839744, End: 1840484, Strand: -
+
+Operon 1332 (3 genes):
+  Start: 1840774, End: 1841331, Strand: -
+  Start: 1841332, End: 1841904, Strand: -
+  Start: 1841954, End: 1843336, Strand: -
+
+Operon 1333 (1 genes):
+  Start: 1843458, End: 1843886, Strand: +
+
+Operon 1334 (2 genes):
+  Start: 1843883, End: 1845004, Strand: -
+  Start: 1845012, End: 1845476, Strand: -
+
+Operon 1335 (3 genes):
+  Start: 1845619, End: 1846281, Strand: -
+  Start: 1846287, End: 1846565, Strand: -
+  Start: 1846565, End: 1846717, Strand: -
+
+Operon 1336 (2 genes):
+  Start: 1846853, End: 1847644, Strand: +
+  Start: 1847641, End: 1847949, Strand: +
+
+Operon 1337 (1 genes):
+  Start: 1848020, End: 1849267, Strand: +
+
+Operon 1338 (1 genes):
+  Start: 1849321, End: 1849749, Strand: +
+
+Operon 1339 (1 genes):
+  Start: 1849762, End: 1850922, Strand: -
+
+Operon 1340 (2 genes):
+  Start: 1850921, End: 1852024, Strand: +
+  Start: 1852017, End: 1853057, Strand: +
+
+Operon 1341 (1 genes):
+  Start: 1853446, End: 1855077, Strand: -
+
+Operon 1342 (1 genes):
+  Start: 1855271, End: 1855378, Strand: -
+
+Operon 1343 (1 genes):
+  Start: 1855514, End: 1856632, Strand: -
+
+Operon 1344 (4 genes):
+  Start: 1856718, End: 1857755, Strand: -
+  Start: 1857748, End: 1859352, Strand: -
+  Start: 1859352, End: 1860467, Strand: -
+  Start: 1860511, End: 1861650, Strand: -
+
+Operon 1345 (2 genes):
+  Start: 1861805, End: 1862707, Strand: +
+  Start: 1862700, End: 1863449, Strand: +
+
+Operon 1346 (1 genes):
+  Start: 1864085, End: 1864888, Strand: +
+
+Operon 1347 (2 genes):
+  Start: 1864885, End: 1865133, Strand: -
+  Start: 1865117, End: 1865437, Strand: -
+
+Operon 1348 (2 genes):
+  Start: 1865502, End: 1865996, Strand: +
+  Start: 1866003, End: 1866383, Strand: +
+
+Operon 1349 (1 genes):
+  Start: 1866390, End: 1867403, Strand: -
+
+Operon 1350 (1 genes):
+  Start: 1867590, End: 1868285, Strand: -
+
+Operon 1351 (1 genes):
+  Start: 1868371, End: 1869552, Strand: +
+
+Operon 1352 (2 genes):
+  Start: 1869757, End: 1871265, Strand: +
+  Start: 1871265, End: 1872968, Strand: +
+
+Operon 1353 (1 genes):
+  Start: 1872969, End: 1874018, Strand: -
+
+Operon 1354 (1 genes):
+  Start: 1874236, End: 1874547, Strand: +
+
+Operon 1355 (2 genes):
+  Start: 1881134, End: 1881790, Strand: +
+  Start: 1881839, End: 1882036, Strand: +
+
+Operon 1356 (1 genes):
+  Start: 1882189, End: 1882320, Strand: -
+
+Operon 1357 (1 genes):
+  Start: 1882378, End: 1883610, Strand: -
+
+Operon 1358 (1 genes):
+  Start: 1883735, End: 1885204, Strand: +
+
+Operon 1359 (1 genes):
+  Start: 1885376, End: 1885771, Strand: +
+
+Operon 1360 (2 genes):
+  Start: 1886025, End: 1886285, Strand: +
+  Start: 1886292, End: 1887203, Strand: +
+
+Operon 1361 (2 genes):
+  Start: 1887200, End: 1888003, Strand: -
+  Start: 1888045, End: 1889127, Strand: -
+
+Operon 1362 (1 genes):
+  Start: 1889187, End: 1889660, Strand: -
+
+Operon 1363 (1 genes):
+  Start: 1889712, End: 1890155, Strand: +
+
+Operon 1364 (2 genes):
+  Start: 1890170, End: 1890721, Strand: -
+  Start: 1890711, End: 1891115, Strand: -
+
+Operon 1365 (1 genes):
+  Start: 1891191, End: 1891811, Strand: +
+
+Operon 1366 (1 genes):
+  Start: 1891808, End: 1892323, Strand: -
+
+Operon 1367 (2 genes):
+  Start: 1892426, End: 1895257, Strand: +
+  Start: 1895306, End: 1897006, Strand: +
+
+Operon 1368 (3 genes):
+  Start: 1897064, End: 1898107, Strand: +
+  Start: 1898114, End: 1899061, Strand: +
+  Start: 1899063, End: 1899422, Strand: +
+
+Operon 1369 (2 genes):
+  Start: 1899427, End: 1900695, Strand: -
+  Start: 1900720, End: 1901403, Strand: -
+
+Operon 1370 (2 genes):
+  Start: 1901458, End: 1902318, Strand: +
+  Start: 1902361, End: 1902801, Strand: +
+
+Operon 1371 (1 genes):
+  Start: 1902806, End: 1903378, Strand: -
+
+Operon 1372 (1 genes):
+  Start: 1903499, End: 1905028, Strand: +
+
+Operon 1373 (1 genes):
+  Start: 1905159, End: 1906304, Strand: +
+
+Operon 1374 (1 genes):
+  Start: 1906294, End: 1906926, Strand: -
+
+Operon 1375 (1 genes):
+  Start: 1906993, End: 1907088, Strand: -
+
+Operon 1376 (1 genes):
+  Start: 1907681, End: 1908784, Strand: -
+
+Operon 1377 (1 genes):
+  Start: 1908841, End: 1911486, Strand: -
+
+Operon 1378 (3 genes):
+  Start: 1911770, End: 1912900, Strand: +
+  Start: 1912908, End: 1914029, Strand: +
+  Start: 1914032, End: 1914853, Strand: +
+
+Operon 1379 (1 genes):
+  Start: 1915106, End: 1916023, Strand: +
+
+Operon 1380 (1 genes):
+  Start: 1916020, End: 1916601, Strand: -
+
+Operon 1381 (1 genes):
+  Start: 1916695, End: 1917273, Strand: +
+
+Operon 1382 (1 genes):
+  Start: 1917494, End: 1917904, Strand: -
+
+Operon 1383 (3 genes):
+  Start: 1918048, End: 1918968, Strand: -
+  Start: 1918972, End: 1920051, Strand: -
+  Start: 1920058, End: 1921212, Strand: -
+
+Operon 1384 (1 genes):
+  Start: 1921302, End: 1922165, Strand: -
+
+Operon 1385 (1 genes):
+  Start: 1922429, End: 1923976, Strand: +
+
+Operon 1386 (1 genes):
+  Start: 1924311, End: 1926428, Strand: +
+
+Operon 1387 (1 genes):
+  Start: 1926895, End: 1927356, Strand: -
+
+Operon 1388 (1 genes):
+  Start: 1927515, End: 1928057, Strand: +
+
+Operon 1389 (1 genes):
+  Start: 1928058, End: 1928555, Strand: -
+
+Operon 1390 (1 genes):
+  Start: 1928690, End: 1930267, Strand: +
+
+Operon 1391 (4 genes):
+  Start: 1930439, End: 1932424, Strand: +
+  Start: 1932464, End: 1933003, Strand: +
+  Start: 1933026, End: 1933385, Strand: +
+  Start: 1933410, End: 1933832, Strand: +
+
+Operon 1392 (1 genes):
+  Start: 1933811, End: 1934248, Strand: -
+
+Operon 1393 (1 genes):
+  Start: 1934329, End: 1934907, Strand: +
+
+Operon 1394 (1 genes):
+  Start: 1935013, End: 1935207, Strand: +
+
+Operon 1395 (1 genes):
+  Start: 1935261, End: 1935623, Strand: +
+
+Operon 1396 (1 genes):
+  Start: 1935688, End: 1935981, Strand: -
+
+Operon 1397 (1 genes):
+  Start: 1936134, End: 1936334, Strand: +
+
+Operon 1398 (1 genes):
+  Start: 1936344, End: 1937105, Strand: -
+
+Operon 1399 (1 genes):
+  Start: 1937298, End: 1937918, Strand: -
+
+Operon 1400 (1 genes):
+  Start: 1938030, End: 1938773, Strand: +
+
+Operon 1401 (2 genes):
+  Start: 1939254, End: 1940129, Strand: +
+  Start: 1940155, End: 1940475, Strand: +
+
+Operon 1402 (1 genes):
+  Start: 1940522, End: 1941505, Strand: -
+
+Operon 1403 (1 genes):
+  Start: 1941587, End: 1941940, Strand: +
+
+Operon 1404 (4 genes):
+  Start: 1942002, End: 1942289, Strand: -
+  Start: 1942282, End: 1942740, Strand: -
+  Start: 1942737, End: 1943348, Strand: -
+  Start: 1943386, End: 1943547, Strand: -
+
+Operon 1405 (1 genes):
+  Start: 1943660, End: 1943929, Strand: +
+
+Operon 1406 (1 genes):
+  Start: 1944035, End: 1945891, Strand: +
+
+Operon 1407 (1 genes):
+  Start: 1945888, End: 1946232, Strand: -
+
+Operon 1408 (2 genes):
+  Start: 1946319, End: 1947251, Strand: +
+  Start: 1947251, End: 1948588, Strand: +
+
+Operon 1409 (1 genes):
+  Start: 1948559, End: 1949227, Strand: -
+
+Operon 1410 (2 genes):
+  Start: 1949316, End: 1950188, Strand: -
+  Start: 1950221, End: 1950610, Strand: -
+
+Operon 1411 (1 genes):
+  Start: 1950650, End: 1951171, Strand: +
+
+Operon 1412 (1 genes):
+  Start: 1951188, End: 1952477, Strand: -
+
+Operon 1413 (2 genes):
+  Start: 1952690, End: 1954522, Strand: -
+  Start: 1954525, End: 1954824, Strand: -
+
+Operon 1414 (1 genes):
+  Start: 1954955, End: 1955227, Strand: +
+
+Operon 1415 (1 genes):
+  Start: 1955274, End: 1957133, Strand: -
+
+Operon 1416 (1 genes):
+  Start: 1957549, End: 1959057, Strand: +
+
+Operon 1417 (1 genes):
+  Start: 1959213, End: 1960256, Strand: +
+
+Operon 1418 (1 genes):
+  Start: 1960353, End: 1960535, Strand: +
+
+Operon 1419 (2 genes):
+  Start: 1960727, End: 1962556, Strand: +
+  Start: 1962562, End: 1963569, Strand: +
+
+Operon 1420 (1 genes):
+  Start: 1963879, End: 1964535, Strand: +
+
+Operon 1421 (1 genes):
+  Start: 1964484, End: 1965641, Strand: -
+
+Operon 1422 (1 genes):
+  Start: 1965732, End: 1965824, Strand: +
+
+Operon 1423 (1 genes):
+  Start: 1965903, End: 1967318, Strand: +
+
+Operon 1424 (1 genes):
+  Start: 1967327, End: 1967698, Strand: -
+
+Operon 1425 (1 genes):
+  Start: 1967776, End: 1968756, Strand: -
+
+Operon 1426 (1 genes):
+  Start: 1968823, End: 1969428, Strand: -
+
+Operon 1427 (1 genes):
+  Start: 1969542, End: 1970282, Strand: +
+
+Operon 1428 (1 genes):
+  Start: 1970298, End: 1970495, Strand: -
+
+Operon 1429 (1 genes):
+  Start: 1970550, End: 1971122, Strand: -
+
+Operon 1430 (1 genes):
+  Start: 1971212, End: 1974160, Strand: +
+
+Operon 1431 (1 genes):
+  Start: 1974232, End: 1975149, Strand: +
+
+Operon 1432 (1 genes):
+  Start: 1975213, End: 1976295, Strand: +
+
+Operon 1433 (1 genes):
+  Start: 1976303, End: 1977676, Strand: -
+
+Operon 1434 (2 genes):
+  Start: 1977745, End: 1978779, Strand: -
+  Start: 1978824, End: 1979123, Strand: -
+
+Operon 1435 (2 genes):
+  Start: 1979205, End: 1980146, Strand: +
+  Start: 1980191, End: 1980583, Strand: +
+
+Operon 1436 (1 genes):
+  Start: 1980692, End: 1981048, Strand: -
+
+Operon 1437 (1 genes):
+  Start: 1981201, End: 1981929, Strand: +
+
+Operon 1438 (1 genes):
+  Start: 1981952, End: 1982431, Strand: -
+
+Operon 1439 (2 genes):
+  Start: 1982514, End: 1982789, Strand: +
+  Start: 1982832, End: 1984121, Strand: +
+
+Operon 1440 (2 genes):
+  Start: 1984401, End: 1984709, Strand: -
+  Start: 1984713, End: 1985978, Strand: -
+
+Operon 1441 (1 genes):
+  Start: 1986133, End: 1987086, Strand: -
+
+Operon 1442 (1 genes):
+  Start: 1987884, End: 1989215, Strand: -
+
+Operon 1443 (1 genes):
+  Start: 1989233, End: 1989631, Strand: +
+
+Operon 1444 (1 genes):
+  Start: 1989693, End: 1991879, Strand: -
+
+Operon 1445 (1 genes):
+  Start: 1992072, End: 1992836, Strand: +
+
+Operon 1446 (2 genes):
+  Start: 1992911, End: 1993543, Strand: -
+  Start: 1993547, End: 1993975, Strand: -
+
+Operon 1447 (6 genes):
+  Start: 1994139, End: 1994558, Strand: -
+  Start: 1994558, End: 1995751, Strand: -
+  Start: 1995744, End: 1998659, Strand: -
+  Start: 1998659, End: 2000485, Strand: -
+  Start: 2000487, End: 2002058, Strand: -
+  Start: 2002059, End: 2002286, Strand: -
+
+Operon 1448 (1 genes):
+  Start: 2002626, End: 2003546, Strand: -
+
+Operon 1449 (1 genes):
+  Start: 2006199, End: 2006309, Strand: -
+
+Operon 1450 (1 genes):
+  Start: 2006446, End: 2006856, Strand: -
+
+Operon 1451 (1 genes):
+  Start: 2006920, End: 2007438, Strand: -
+
+Operon 1452 (1 genes):
+  Start: 2007840, End: 2009699, Strand: +
+
+Operon 1453 (1 genes):
+  Start: 2009709, End: 2011541, Strand: -
+
+Operon 1454 (1 genes):
+  Start: 2011729, End: 2014239, Strand: +
+
